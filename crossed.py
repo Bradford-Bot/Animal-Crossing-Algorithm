@@ -277,3 +277,194 @@ if species == "bull":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
+# BEAR
+if species == "bear":
+  bearColor = input("What is the color of this bear? ").lower()
+  # BEAR - GREEN
+  if bearColor == "green":
+      print()
+      print("\033[32m" "Is the Villager you're looking for named Charlise?""\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  # BEAR - YELLOW
+  if bearColor == "yellow":
+      print()
+      print("\033[33m" "Is the Villager you're looking for named Nate?""\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  # BEAR - PURPLE
+  if bearColor == "purple":
+    print()
+    print("\033[35m" "Is the Villager you're looking for named Megan?""\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  # BEAR - PINK
+  if bearColor == "pink":
+    print()
+  bearGender = input("Is the Villager you're looking for a" "\033[34m" " boy "
+      "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl"
+      "\033[30m""\033[37m""? ""\033[0m").lower()
+  if bearGender == "boy":
+      print()
+      print("\033[31m" "Is the Villager you're looking for named Chow?""\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+      if bearGender == "girl":
+        print()
+        print("\033[31m" "Is the Villager you're looking for named Chow?""\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("ADD CHARACTER INFO PAGE")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+  # BEAR - WHITE
+  if bearColor == "white":
+      print()
+      bearBangs = input("Is the color of this bears bangs pink or blonde? ").lower()
+      if bearBangs == "pink":
+        print()
+        print("\033[31m" "Is the Villager you're looking for named Pinky?""\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("ADD CHARACTER INFO PAGE")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+      if bearBangs == "blonde":
+        print()
+        print("\033[33m" "Is the Villager you're looking for named Tutu?""\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("ADD CHARACTER INFO PAGE")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+  # BEAR - BROWN
+  if bearColor == "brown":
+      print()
+  bearGender = input("Is the Villager you're looking for a" "\033[34m" " boy "
+      "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl"
+      "\033[30m""\033[37m""? ""\033[0m").lower()
+  if bearGender == "girl":
+        print()
+        print("\033[33m" "Is the Villager you're looking for named Paula?""\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("ADD CHARACTER INFO PAGE")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+  if bearGender == "boy":
+        print()
+        bearEyebrows = input("Does this Villager have thick eyebrows? ").lower()
+        if bearEyebrows == "no":
+          print()
+          print("\033[33m" "Is the Villager you're looking for named Ike?""\033[0m")
+          print()
+          yn = input("Yes or No? ").lower()
+          if yn == "yes":
+            print()
+            print("ADD CHARACTER INFO PAGE")
+          if yn == "no":
+            print()
+            print("Sounds like a you problem.")
+        if bearEyebrows == "yes":
+          print()
+          bearShade = input("Is this Villager lighter or darker?").lower()
+          if bearShade == "lighter":
+            print()
+            print("\033[33m" "Is the Villager you're looking for named Teddy?""\033[0m")
+            print()
+            yn = input("Yes or No? ").lower()
+            if yn == "yes":
+              print()
+              print("ADD CHARACTER INFO PAGE")
+            if yn == "no":
+              print()
+              print("Sounds like a you problem.")
+          if bearShade == "darker":
+            print()
+            print("\033[33m" "Is the Villager you're looking for named Grizzly?"
+                  "\033[0m")
+            print()
+            yn = input("Yes or No? ").lower()
+            if yn == "yes":
+              print()
+              print("ADD CHARACTER INFO PAGE")
+            if yn == "no":
+              print()
+              print("Sounds like a you problem.")
+  # BEAR - BLUE
+  if bearColor == "blue":
+    print()
+    bearHairColor = input("Is the facial hair of this Villager brown or blonde? Or"
+                          " neither? ").lower()
+    if bearHairColor == "brown":
+      print()
+      print("\033[34m" "Is the Villager you're looking for named Beardo ?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if bearHairColor == "blonde":
+      print()
+      print("\033[34m" "Is the Villager you're looking for named Groucho?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if bearHairColor == "neither":
+      print()
+      print("\033[34m" "Is the Villager you're looking for named Curt?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
