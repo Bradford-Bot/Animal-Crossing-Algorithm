@@ -222,3 +222,58 @@ if species == "anteater":
     if yn == "no":
       print()
       print("Sounds like a you problem.")
+#BULL
+if species == "bull":
+  # BULL - ORANGE
+    bullColor = input("What is the color of this Villager? ").lower()
+    if bullColor == "orange":
+      print()
+      print("\033[33m" "Is the Villager you're looking for named Angus?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  # BULL - YELLOW
+    if bullColor == "yellow":
+      print()
+      print("\033[33m" "Is the Villager you're looking for named Coach?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  # BULL - BLUE
+    if bullColor == "blue":
+      print()
+      print("\033[34m" "Is the Villager you're looking for named Stu?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  # BULL - BROWN
+    if bullColor == "brown":
+      print()
+      print("\033[33m" "Is the Villager you're looking for named Vic?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
