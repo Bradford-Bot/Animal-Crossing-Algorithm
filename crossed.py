@@ -465,6 +465,6 @@ if species == "bear":
       if yn == "yes":
         print()
         print("ADD CHARACTER INFO PAGE")
-      if yn == "no":
+      if yn == "no ":
         print()
         print("Sounds like a you problem.")
