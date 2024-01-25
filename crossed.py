@@ -70,7 +70,7 @@ if species == "alligator":
       print()
       print("\033[32m""Is the Villager you're looking for named Drago?""\033[0m")
       print()
-      yn = input("Yes or No? ")
+      yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
         print("ADD CHARACTER INFO PAGE")
