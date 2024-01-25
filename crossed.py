@@ -1,3 +1,6 @@
+# 1/25/24  Hiiii, this is just a personal thing for me. Don't you find it funny that Ryan Gosling went out and said to everyone: 
+#"Hey, are you stupid? Did you not get the effing point of the movie or did you watch it with your eyes closed
+# Or did you just feed into ther sterotype of how I'm getting more fame instead of the women WHO MADE THE MOVIE???
 print("\033[32m" "Animal Crossing" "\033[0m")
 print("")
 print("\033[32m" "Looking for a villager and can't put your finger on what their name"
