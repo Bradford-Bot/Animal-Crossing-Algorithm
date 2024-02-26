@@ -12,7 +12,7 @@ print()
 #SPECIAL
 if species == "special":
   print("Samantha: Tangy!")
-  print("Cameron: Kat!")
+  print("Cameron: Katt!")
 # ALLIGATOR
 if species == "alligator":
   gatorColor = input("What is the main color of this Villager? ").lower()
@@ -473,6 +473,64 @@ if species == "bear":
       if yn == "yes":
         print()
         print("ADD CHARACTER INFO PAGE")
-      if yn == "no ":
+      if yn == "no":
         print()
         print("Sounds like a you problem.")
+# WOLF
+if species == "wolf":
+  wolfColor = input("What is the color of this Villager? ").lower()
+#ORANGE WOLF
+  if wolfColor == "orange":
+    print()
+    print("\033[33m" "Is the Villager you're looking for named Cheif?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# PINK WOLF
+  if wolfColor == "pink":
+    print()
+    wolfBangs = input("Does this Villager have bangs? ").lower()
+    if wolfBangs == "yes":
+      print()
+      print("\033[31m" "Is the Villager you're looking for named Audie?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if wolfBangs == "no":
+      print()
+      print("\033[31m" "Is the Villager you're looking for named Freya?"
+            "\033[0m")
+      print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# PURPLE WOLF
+  if wolfColor == "purple":
+    print()
+    print("\033[35m" "Is the Villager you're looking for named Lobo?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# 
