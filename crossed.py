@@ -9,6 +9,10 @@ print("\033[32m" "Looking for a villager and can't put your finger on what their
 print("")
 species = input("What species is your villager? ").lower()
 print()
+#SPECIAL
+if species == "special":
+  print("Samantha: Tangy!")
+  print("Cameron: Kat!")
 # ALLIGATOR
 if species == "alligator":
   gatorColor = input("What is the main color of this Villager? ").lower()
