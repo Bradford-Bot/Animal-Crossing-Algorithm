@@ -25,7 +25,7 @@ if species == "alligator":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Sly")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -37,7 +37,7 @@ if species == "alligator":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Alfonso")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -48,7 +48,7 @@ if species == "alligator":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
       print()
-      print("ADD CHARACTER INFO PAGE")
+      print("https://animalcrossing.fandom.com/wiki/Alli")
     if yn == "no":
       print()
       print("Sounds like a you problem.")
@@ -63,7 +63,7 @@ if species == "alligator":
       yn = input("Yes or No? ")
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Boots")
       if yn == "no":
         print()
         print("Sucks for you.")
@@ -75,7 +75,7 @@ if species == "alligator":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Drago")
       if yn == "no":
         print()
         print("Sucks for you.")
@@ -86,7 +86,7 @@ if species == "alligator":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
       print()
-      print("ADD CHARACTER INFO PAGE")
+      print("https://animalcrossing.fandom.com/wiki/Del")
     if yn == "no":
       print()
       print("Sounds like a you problem.")
@@ -97,18 +97,18 @@ if species == "alligator":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
       print()
-      print("ADD CHARACTER INFO PAGE")
+      print("https://animalcrossing.fandom.com/wiki/Gayle")
     if yn == "no":
       print()
       print("Sounds like a you problem.")
   # ALLIGATOR - BROWN
   if gatorColor == "brown":
-    print("\033[33m" "Is the Villager you're looking for named Rosewell?" "\033[0m")
+    print("\033[33m" "Is the Villager you're looking for named Roswell?" "\033[0m")
     print()
     yn = input("Yes or No? ").lower()
     if yn == "yes":
       print()
-      print("ADD CHARACTER INFO PAGE")
+      print("https://animalcrossing.fandom.com/wiki/Roswell")
     if yn == "no":
       print()
       print("Sounds like a you problem.")
@@ -123,7 +123,7 @@ if species == "anteater":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Anabelle")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -135,7 +135,7 @@ if species == "anteater":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Pango")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -153,7 +153,7 @@ if species == "anteater":
         yn = input("Yes or No? ").lower()
         if yn == "yes":
           print()
-          print("ADD CHARACTER INFO PAGE")
+          print("https://animalcrossing.fandom.com/wiki/Zoe")
         if yn == "no":
           print()
           print("Sounds like a you problem.")
@@ -172,7 +172,7 @@ if species == "anteater":
           yn = input("Yes or No? ").lower()
           if yn == "yes":
             print()
-            print("ADD CHARACTER INFO PAGE")
+            print("https://animalcrossing.fandom.com/wiki/Antonio")
           if yn == "no":
             print()
             print("Sounds like a you problem.")
@@ -185,7 +185,7 @@ if species == "anteater":
           yn = input("Yes or No? ").lower()
           if yn == "yes":
             print()
-            print("ADD CHARACTER INFO PAGE")
+            print("https://animalcrossing.fandom.com/wiki/Annalisa")
           if yn == "no":
             print()
             print("Sounds like a you problem.")
@@ -200,7 +200,7 @@ if species == "anteater":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Olaf")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -211,7 +211,7 @@ if species == "anteater":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Cyrano")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -223,7 +223,7 @@ if species == "anteater":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
       print()
-      print("ADD CHARACTER INFO PAGE")
+      print("https://animalcrossing.fandom.com/wiki/Snooty_(villager)")
     if yn == "no":
       print()
       print("Sounds like a you problem.")
@@ -239,7 +239,7 @@ if species == "bull":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Angus")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -252,7 +252,7 @@ if species == "bull":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Coach")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -265,7 +265,7 @@ if species == "bull":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Stu")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -278,7 +278,7 @@ if species == "bull":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Vic")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -293,7 +293,7 @@ if species == "bear":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Charlise")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -305,7 +305,7 @@ if species == "bear":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Nate")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -317,7 +317,7 @@ if species == "bear":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Megan")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -338,14 +338,14 @@ if species == "bear":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-      if bearGender == "girl":
+  if bearGender == "girl":
         print()
         print("\033[31m" "Is the Villager you're looking for named Chow?""\033[0m")
         print()
         yn = input("Yes or No? ").lower()
         if yn == "yes":
           print()
-          print("ADD CHARACTER INFO PAGE")
+          print("https://animalcrossing.fandom.com/wiki/Chow")
         if yn == "no":
           print()
           print("Sounds like a you problem.")
@@ -360,7 +360,7 @@ if species == "bear":
         yn = input("Yes or No? ").lower()
         if yn == "yes":
           print()
-          print("ADD CHARACTER INFO PAGE")
+          print("https://animalcrossing.fandom.com/wiki/Pinky")
         if yn == "no":
           print()
           print("Sounds like a you problem.")
@@ -371,7 +371,7 @@ if species == "bear":
         yn = input("Yes or No? ").lower()
         if yn == "yes":
           print()
-          print("ADD CHARACTER INFO PAGE")
+          print("https://animalcrossing.fandom.com/wiki/Tutu")
         if yn == "no":
           print()
           print("Sounds like a you problem.")
@@ -388,7 +388,7 @@ if species == "bear":
         yn = input("Yes or No? ").lower()
         if yn == "yes":
           print()
-          print("ADD CHARACTER INFO PAGE")
+          print("https://animalcrossing.fandom.com/wiki/Paula")
         if yn == "no":
           print()
           print("Sounds like a you problem.")
@@ -402,7 +402,7 @@ if species == "bear":
           yn = input("Yes or No? ").lower()
           if yn == "yes":
             print()
-            print("ADD CHARACTER INFO PAGE")
+            print("https://animalcrossing.fandom.com/wiki/Ike")
           if yn == "no":
             print()
             print("Sounds like a you problem.")
@@ -416,7 +416,7 @@ if species == "bear":
             yn = input("Yes or No? ").lower()
             if yn == "yes":
               print()
-              print("ADD CHARACTER INFO PAGE")
+              print("https://animalcrossing.fandom.com/wiki/Teddy")
             if yn == "no":
               print()
               print("Sounds like a you problem.")
@@ -428,7 +428,7 @@ if species == "bear":
             yn = input("Yes or No? ").lower()
             if yn == "yes":
               print()
-              print("ADD CHARACTER INFO PAGE")
+              print("https://animalcrossing.fandom.com/wiki/Grizzly")
             if yn == "no":
               print()
               print("Sounds like a you problem.")
@@ -445,7 +445,7 @@ if species == "bear":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Beardo")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -457,7 +457,7 @@ if species == "bear":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Groucho")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -469,7 +469,7 @@ if species == "bear":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Curt")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -484,7 +484,7 @@ if species == "rhino":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Spike")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -497,7 +497,7 @@ if species == "rhino":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Rhonda")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -510,7 +510,7 @@ if species == "rhino":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Tank")
     if yn == "no":
         print()
         print("Sounds like a you problem.")  
@@ -527,7 +527,7 @@ if species == "rhino":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Hornsby")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -539,7 +539,7 @@ if species == "rhino":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Azalea")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -555,19 +555,19 @@ if species == "rhino":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Merengue")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
     if berryRhino == "no":
       print()
-      print("\033[31m" "Is the Villager you're looking for named Merengue?"
+      print("\033[31m" "Is the Villager you're looking for named Renée?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Renée")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -586,7 +586,7 @@ if species == "tiger":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Rowan")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -598,7 +598,7 @@ if species == "tiger":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Leonardo")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -611,7 +611,7 @@ if species == "tiger":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Tybalt")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -624,7 +624,7 @@ if species == "tiger":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Claudia")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -637,7 +637,7 @@ if species == "tiger":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Bangle")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -653,7 +653,7 @@ if species == "tiger":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Rolf")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -665,7 +665,7 @@ if species == "tiger":
         yn = input("Yes or No? ").lower()
         if yn == "yes":
          print()
-         print("ADD CHARACTER INFO PAGE")
+         print("https://animalcrossing.fandom.com/wiki/Bianca_(tiger)")
         if yn == "no":
          print()
          print("Sounds like a you problem.")
@@ -681,7 +681,7 @@ if species == "wolf":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Chief")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -697,7 +697,7 @@ if species == "wolf":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Audie")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -709,7 +709,7 @@ if species == "wolf":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Freya")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -722,7 +722,7 @@ if species == "wolf":
     yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Lobo")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -738,7 +738,7 @@ if species == "wolf":
      yn = input("Yes or No? ").lower()
      if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Fang")
      if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -750,7 +750,7 @@ if species == "wolf":
      yn = input("Yes or No? ").lower()
     if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Dobie")
     if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -767,7 +767,7 @@ if species == "wolf":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Kyle")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -779,7 +779,7 @@ if species == "wolf":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Vivian")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -796,7 +796,7 @@ if species == "wolf":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Wolfgang")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -805,13 +805,13 @@ if species == "wolf":
       cuteOrSleek = input("Is this Vllager cute or more sleek? ").lower()
       if cuteOrSleek == "cute":
         print()
-        print("\033[34m" "Is the Villager you're looking for named Skyle?"
+        print("\033[34m" "Is the Villager you're looking for named Skye?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Skye")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
@@ -823,7 +823,7 @@ if species == "wolf":
       yn = input("Yes or No? ").lower()
       if yn == "yes":
         print()
-        print("ADD CHARACTER INFO PAGE")
+        print("https://animalcrossing.fandom.com/wiki/Whitney")
       if yn == "no":
         print()
         print("Sounds like a you problem.")
