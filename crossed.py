@@ -561,3 +561,32 @@ if species == "wolf":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# BROWN WOLF
+  if wolfColor == "brown":
+    print()
+    wolfGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+    if wolfGender == "boy":
+      print()
+      print("\033[30m" "Is the Villager you're looking for named Kyle?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if wolfGender == "girl":
+      print()
+      print("\033[30m" "Is the Villager you're looking for named Vivian?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
