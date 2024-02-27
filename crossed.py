@@ -473,6 +473,9 @@ if species == "bear":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
+# Kangaroo
+if species == "kangaroo":
+  print('Slay')
 # RHINO 
 if species == "rhino":
   rhinoColor = input("What is the color of this Villager? ").lower()
