@@ -1,6 +1,3 @@
-# 1/25/24  Hiiii, this is just a personal thing for me. Don't you find it funny that Ryan Gosling went out and said to everyone: 
-#"Hey, are you stupid? Did you not get the effing point of the movie or did you watch it with your eyes closed
-# Or did you just feed into ther sterotype of how I'm getting more fame instead of the women WHO MADE THE MOVIE???
 print()
 print("\033[32m" "Animal Crossing" "\033[0m")
 print("")
@@ -598,6 +595,33 @@ if species == "wolf":
     if wolfGender == "boy":
       print()
       print("\033[34m" "Is the Villager you're looking for named Wolfgang?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if wolfGender == "girl":
+      print()
+      cuteOrSleek = input("Is this Vllager cute or more sleek? ").lower()
+      if cuteOrSleek == "cute":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Skyle?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+      if cuteOrSleek == "sleek":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named W?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
