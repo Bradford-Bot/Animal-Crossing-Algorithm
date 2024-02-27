@@ -571,6 +571,34 @@ if species == "rhino":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
+# TIGER
+if species == "tiger":
+  tigerColor = input("What is the color of this Villager? ").lower()
+  if tigerColor == "yellow":
+    print()
+    print("\033[33m" "Is the Villager you're looking for named Tybalt?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+#PINK TIGER
+  if tigerColor == "pink":
+    print()
+    print("\033[31m" "Is the Villager you're looking for named Claudia?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
 # WOLF
 if species == "wolf":
   wolfColor = input("What is the color of this Villager? ").lower()
