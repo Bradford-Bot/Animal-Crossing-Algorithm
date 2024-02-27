@@ -533,4 +533,31 @@ if species == "wolf":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-# 
+# GRAY WOLF
+  if wolfColor == "grey":
+    print()
+  wolfAge = input("Does this Villager look old or young? ").lower()
+  if wolfAge == "young":
+    print()
+    print("\033[34m" "Is the Villager you're looking for named Fang?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  if wolfAge == "old":
+    print()
+    print("\033[34m" "Is the Villager you're looking for named Dobie?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("ADD CHARACTER INFO PAGE")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
