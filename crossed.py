@@ -458,6 +458,7 @@ if species == "bear":
             if yn == "no":
               print()
               print("Sounds like a you problem.")
+#Huh
   # BEAR - BLUE
   if bearColor == "blue":
     print()
