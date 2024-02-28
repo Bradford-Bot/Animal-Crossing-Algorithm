@@ -3,21 +3,23 @@ print("\033[32m" "Animal Crossing" "\033[0m")
 print("")
 print("\033[32m" "Looking for a villager and can't put your finger on what their name"
 " is? Answer the questions below and find out!" "\033[0m")
-print("")
+print()
+
 species = input("What species is your villager? ").lower()
 print()
+
 #SPECIAL
 if species == "special":
   print("Samantha: Tangy!")
   print("Cameron: Katt!")
+
 # ALLIGATOR
 if species == "alligator":
   gatorColor = input("What is the main color of this Villager? ").lower()
   print()
-  #ALLIGATOR - YELLOW
+#ALLIGATOR - YELLOW
   if gatorColor == "yellow":
     gatorPattern = input("Is the pattern on this Villager camo or circles? ").lower()
-    #ALLIGATOR - CAMO
     if gatorPattern == "camo":
       print()
       print("\033[33m" "Is the Villager you're looking for named Sly?" "\033[0m")
@@ -29,7 +31,6 @@ if species == "alligator":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-    #ALLIGATOR - CIRCLES
     if gatorPattern == "circles":
       print()
       print("\033[33m" "Is the Villager you're looking for named Alfonso?" "\033[0m")
@@ -41,7 +42,7 @@ if species == "alligator":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  #ALLIGATOR - BLUE
+#ALLIGATOR - BLUE
   if gatorColor == "blue":
     print("\033[36m" "Is the Villager you're looking for named Alli?" "\033[0m")
     print()
@@ -52,10 +53,9 @@ if species == "alligator":
     if yn == "no":
       print()
       print("Sounds like a you problem.")
-  #ALLIGATOR - GREEN
+#ALLIGATOR - GREEN
   if gatorColor == "green":
     gatorTraits = input("Does this Villager look happy or angry? ").lower()
-    #ALLIGATOR - HAPPY
     if gatorTraits == "happy":
       print()
       print("\033[32m""Is the Villager you're looking for named Boots?""\033[0m")
@@ -67,7 +67,6 @@ if species == "alligator":
       if yn == "no":
         print()
         print("Sucks for you.")
-    #ALLIGATOR - ANGRY
     if gatorTraits == "angry":
       print()
       print("\033[32m""Is the Villager you're looking for named Drago?""\033[0m")
@@ -79,7 +78,7 @@ if species == "alligator":
       if yn == "no":
         print()
         print("Sucks for you.")
-  #ALLIGATOR - PURPLE
+#ALLIGATOR - PURPLE
   if gatorColor == "purple":
     print("\033[35m" "Is the Villager you're looking for named Del?" "\033[0m")
     print()
@@ -90,7 +89,7 @@ if species == "alligator":
     if yn == "no":
       print()
       print("Sounds like a you problem.")
-  # ALLIGATOR - PINK
+# ALLIGATOR - PINK
   if gatorColor == "pink":
     print("\033[31m" "Is the Villager you're looking for named Gayle?" "\033[0m")
     print()
@@ -101,7 +100,7 @@ if species == "alligator":
     if yn == "no":
       print()
       print("Sounds like a you problem.")
-  # ALLIGATOR - BROWN
+ # ALLIGATOR - BROWN
   if gatorColor == "brown":
     print("\033[33m" "Is the Villager you're looking for named Roswell?" "\033[0m")
     print()
@@ -112,9 +111,10 @@ if species == "alligator":
     if yn == "no":
       print()
       print("Sounds like a you problem.")
+
 # ANTEATER
 if species == "anteater":
-  # ANTEATER - YELLOW
+# ANTEATER - YELLOW
   anteaterColor = input("What is the main color of this Villager? ").lower()
   if anteaterColor == "yellow":
       print()
@@ -127,7 +127,7 @@ if species == "anteater":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # ANTEATER - GREEN
+ # ANTEATER - GREEN
   if anteaterColor == "green":
       print()
       print("\033[32m" "Is the Villager you're looking for named Pango?" "\033[0m")
@@ -139,13 +139,11 @@ if species == "anteater":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # ANTEATER - WHITE
+# ANTEATER - WHITE
   if anteaterColor == "white":
       print()
-      # ANTEATER - SECONDARY COLOR
       antColorTwo = input("Is the secondary color of your Villager" 
       " cyan or black? ").lower()
-      # ANTEATER - SECONDARY COLOR (CYAN)
       if antColorTwo == "cyan":
         print()
         print("\033[36m" "Is the Villager you're looking for named Zoe?" "\033[0m")
@@ -157,13 +155,10 @@ if species == "anteater":
         if yn == "no":
           print()
           print("Sounds like a you problem.")
-      # ANTEATER - SECONDARY COLOR (BLACK)
       if antColorTwo == "black":
         print()
-        anteaterBOG = input("Is the Villager you're looking for a" "\033[34m" " boy " 
-                            "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+        anteaterBOG = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
                             "\033[30m""\033[37m""? ""\033[0m").lower()
-        # ANTEATER - SECONDARY COLOR (BLACK/BOY)
         if anteaterBOG == "boy":
           print()
           print("\033[30m" "Is the Villager you're looking for named Antonio?" 
@@ -176,7 +171,6 @@ if species == "anteater":
           if yn == "no":
             print()
             print("Sounds like a you problem.")
-        # ANTEATER - SECONDARY COLOR (BLACK/GIRL)
         if anteaterBOG == "girl":
           print()
           print("\033[30m" "Is the Villager you're looking for named Annalisa?" 
@@ -189,7 +183,7 @@ if species == "anteater":
           if yn == "no":
             print()
             print("Sounds like a you problem.")
-  # ANEATER - ORANGE
+# ANEATER - ORANGE
   if anteaterColor == "orange":
     print()
     anteaterTraits = input("Does this villager have bangs or eyebrows? ").lower()
@@ -215,7 +209,7 @@ if species == "anteater":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # ANTEATER - PINK
+# ANTEATER - PINK
   if anteaterColor == "pink":
     print()
     print("\033[35m" "Is the Villager you're looking for named Snooty?""\033[0m")
@@ -227,9 +221,10 @@ if species == "anteater":
     if yn == "no":
       print()
       print("Sounds like a you problem.")
+
 #BULL
 if species == "bull":
-  # BULL - ORANGE
+# BULL - ORANGE
     bullColor = input("What is the color of this Villager? ").lower()
     if bullColor == "orange":
       print()
@@ -243,7 +238,7 @@ if species == "bull":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # BULL - YELLOW
+# BULL - YELLOW
     if bullColor == "yellow":
       print()
       print("\033[33m" "Is the Villager you're looking for named Coach?"
@@ -256,7 +251,7 @@ if species == "bull":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # BULL - BROWN
+ # BULL - BROWN
     if bullColor == "brown":
       print()
       print("\033[33m" "Is the Villager you're looking for named Vic?"
@@ -269,7 +264,7 @@ if species == "bull":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-# BULL GRAY
+# BULL - GRAY
 if bullColor == "gray":
   print()
   print("\033[33m" "Is the Villager you're looking for named Rodeo?"
@@ -282,7 +277,7 @@ if bullColor == "gray":
   if yn == "no":
     print()
     print("Sounds like a you problem.")
-# Bull BLUE
+# Bull - BLUE
   if bullColor == "blue":
     print()
     bullPattern = input("Does this Villager have a pattern on their horns? ").lower()
@@ -308,10 +303,11 @@ if bullColor == "gray":
   if yn == "no":
     print()
     print("Sounds like a you problem.")
+
 # BEAR
 if species == "bear":
   bearColor = input("What is the color of this bear? ").lower()
-  # BEAR - GREEN
+# BEAR - GREEN
   if bearColor == "green":
       print()
       print("\033[32m" "Is the Villager you're looking for named Charlise?""\033[0m")
@@ -323,7 +319,7 @@ if species == "bear":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # BEAR - YELLOW
+# BEAR - YELLOW
   if bearColor == "yellow":
       print()
       print("\033[33m" "Is the Villager you're looking for named Nate?""\033[0m")
@@ -335,7 +331,7 @@ if species == "bear":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # BEAR - PURPLE
+# BEAR - PURPLE
   if bearColor == "purple":
     print()
     print("\033[35m" "Is the Villager you're looking for named Megan?""\033[0m")
@@ -347,7 +343,7 @@ if species == "bear":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # BEAR - PINK
+# BEAR - PINK
   if bearColor == "pink":
     print()
   bearGender = input("Is the Villager you're looking for a" "\033[34m" " boy "
@@ -375,7 +371,7 @@ if species == "bear":
         if yn == "no":
           print()
           print("Sounds like a you problem.")
-  # BEAR - WHITE
+# BEAR - WHITE
   if bearColor == "white":
       print()
       bearBangs = input("Is the color of this bears bangs pink or blonde? ").lower()
@@ -401,7 +397,7 @@ if species == "bear":
         if yn == "no":
           print()
           print("Sounds like a you problem.")
-  # BEAR - BROWN
+# BEAR - BROWN
   if bearColor == "brown":
       print()
   bearGender = input("Is the Villager you're looking for a" "\033[34m" " boy "
@@ -458,8 +454,7 @@ if species == "bear":
             if yn == "no":
               print()
               print("Sounds like a you problem.")
-#Huh
-  # BEAR - BLUE
+# BEAR - BLUE
   if bearColor == "blue":
     print()
     bearHairColor = input("Is the facial hair of this Villager brown or blonde? Or"
@@ -500,9 +495,11 @@ if species == "bear":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
+
 # COW
 if species == "cow":
   cowColor = input("What is the color of this Villager? ").lower()
+# COW - WHITE
   if cowColor == "white":
     print("\033[33m" "Is the Villager you're looking for named Tipper?"
             "\033[0m")
@@ -514,6 +511,7 @@ if species == "cow":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# COW - BLUE
   if cowColor == "blue":
     print("\033[33m" "Is the Villager you're looking for named Naomi?"
             "\033[0m")
@@ -525,6 +523,7 @@ if species == "cow":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# COW - PINK
   if cowColor == "pink":
     print("\033[33m" "Is the Villager you're looking for named Norma?"
             "\033[0m")
@@ -536,6 +535,7 @@ if species == "cow":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# COW - BROWN
   if cowColor == "brown":
     print("\033[33m" "Is the Villager you're looking for named Patty?"
             "\033[0m")
@@ -547,9 +547,11 @@ if species == "cow":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+
 # Kangaroo
 if species == "kangaroo":
   kangarooColor = input("What is the color of this Villager? ").lower()
+# KANGAROO - WHITE
   if kangarooColor == "white":
     print("\033[33m" "Is the Villager you're looking for named Astrid?"
             "\033[0m")
@@ -561,6 +563,7 @@ if species == "kangaroo":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# KANGAROO - PINK
   if kangarooColor == "pink":
     print("\033[33m" "Is the Villager you're looking for named Marcie?"
             "\033[0m")
@@ -572,6 +575,7 @@ if species == "kangaroo":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# KANGAROO - BLACK
   if kangarooColor == "black":
     print("\033[33m" "Is the Villager you're looking for named Mathilda?"
             "\033[0m")
@@ -583,6 +587,7 @@ if species == "kangaroo":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# KANGAROO - BLUE
   if kangarooColor == "blue":
     print("\033[33m" "Is the Villager you're looking for named Rooney?"
             "\033[0m")
@@ -594,6 +599,7 @@ if species == "kangaroo":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# KANGAROO - PURPLE
   if kangarooColor == "purple":
     print("\033[33m" "Is the Villager you're looking for named Sylvia?"
             "\033[0m")
@@ -605,6 +611,7 @@ if species == "kangaroo":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# KANGAROO - GRAY
   if kangarooColor == "gray":
     print("\033[33m" "Is the Villager you're looking for named Walt?"
             "\033[0m")
@@ -616,6 +623,7 @@ if species == "kangaroo":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# KANGAROO - BROWN
   if kangarooColor == "brown":
     print("\033[33m" "Is the Villager you're looking for named Kitt?"
             "\033[0m")
@@ -627,6 +635,7 @@ if species == "kangaroo":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# KANGAROO - ORANGE
   if kangarooColor == "orange":
     print("\033[33m" "Is the Villager you're looking for named Carrie?"
             "\033[0m")
@@ -638,10 +647,12 @@ if species == "kangaroo":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+
 # RHINO 
 if species == "rhino":
   rhinoColor = input("What is the color of this Villager? ").lower()
   #ORANGE
+# RHINO - ORANGE
   if rhinoColor == "orange":
     print("\033[33m" "Is the Villager you're looking for named Spike?"
             "\033[0m")
@@ -653,7 +664,7 @@ if species == "rhino":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-  #WHITE RHINO
+# RHINO - WHITE
   if rhinoColor == "white":
     print()
     print("\033[37m" "Is the Villager you're looking for named Rhonda?"
@@ -666,8 +677,8 @@ if species == "rhino":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # GREY
-  if rhinoColor == "grey":
+# RHINO - GRAY
+  if rhinoColor == "gray":
     print()
     print("\033[34m" "Is the Villager you're looking for named Tank?"
             "\033[0m")
@@ -679,7 +690,7 @@ if species == "rhino":
     if yn == "no":
         print()
         print("Sounds like a you problem.")  
-  # BLUE RHINO
+ # RHINO - BLUE
   if rhinoColor == "blue":
     print()
     rhinoGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -708,7 +719,7 @@ if species == "rhino":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-  # PINK RHINO
+# RHINO - PINK
   if rhinoColor == "pink":
     print()
     berryRhino = input("Does this Villager have a strawberry on their nose? ").lower()
@@ -736,10 +747,11 @@ if species == "rhino":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
+
 # TIGER
 if species == "tiger":
   tigerColor = input("What is the color of this Villager? ").lower()
-# ORANGE TIGER
+# TIGER - ORANGE
   if tigerColor == "orange":
     print()
     tigerUniBrow = input("Does this Villager have a unibrow? ").lower()
@@ -767,7 +779,7 @@ if species == "tiger":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-# YELLOW TIGER
+# TIGER - YELLOW
   if tigerColor == "yellow":
     print()
     print("\033[33m" "Is the Villager you're looking for named Tybalt?"
@@ -780,7 +792,7 @@ if species == "tiger":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-#PINK TIGER
+# TIGER - PINK
   if tigerColor == "pink":
     print()
     print("\033[31m" "Is the Villager you're looking for named Claudia?"
@@ -793,7 +805,7 @@ if species == "tiger":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-# BROWN TIGER
+# TIGER - BROWN
   if tigerColor == "brown":
     print()
     print("\033[33m" "Is the Villager you're looking for named Bangle?"
@@ -806,7 +818,7 @@ if species == "tiger":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-# WHITE TIGER
+# TIGER - WHITE
     print()
     tigerGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
                        "\033[30m""\033[37m""? ""\033[0m").lower()
@@ -834,10 +846,11 @@ if species == "tiger":
         if yn == "no":
          print()
          print("Sounds like a you problem.")
+
 # WOLF
 if species == "wolf":
   wolfColor = input("What is the color of this Villager? ").lower()
-#ORANGE WOLF
+# WOLF - ORANGE
   if wolfColor == "orange":
     print()
     print("\033[33m" "Is the Villager you're looking for named Cheif?"
@@ -850,7 +863,7 @@ if species == "wolf":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-# PINK WOLF
+# WOLF - PINK
   if wolfColor == "pink":
     print()
     wolfBangs = input("Does this Villager have bangs? ").lower()
@@ -878,7 +891,7 @@ if species == "wolf":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-# PURPLE WOLF
+# WOLF - PURPLE
   if wolfColor == "purple":
     print()
     print("\033[35m" "Is the Villager you're looking for named Lobo?"
@@ -891,8 +904,8 @@ if species == "wolf":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-# GRAY WOLF
-  if wolfColor == "grey":
+# WOLF - GRAY
+  if wolfColor == "gray":
     print()
     wolfAge = input("Does this Villager look old or young? ").lower()
     if wolfAge == "young":
@@ -919,7 +932,7 @@ if species == "wolf":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
-# BROWN WOLF
+# WOLF - BROWN
   if wolfColor == "brown":
     print()
     wolfGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -948,7 +961,7 @@ if species == "wolf":
       if yn == "no":
         print()
         print("Sounds like a you problem.")
-# BLUE WOLF
+# WOLF - BLUE
   if wolfColor == "blue":
     print()
     wolfGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
