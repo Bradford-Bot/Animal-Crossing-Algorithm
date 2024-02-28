@@ -862,6 +862,156 @@ if species == "octopus":
         print()
         print("Sounds like a you problem.")
 
+# Ostrich
+  if species == "ostrich":
+    ostrichColor = input("What is the color of this Villager? ").lower()
+# Ostrich - RED
+    if ostrichColor == "red":
+      print("\033[33m" "Is the Villager you're looking for named Rio?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Rio")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# Ostrich - BLACK
+    if ostrichColor == "black":
+      print("\033[33m" "Is the Villager you're looking for named Gladys?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Gladys")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# Ostrich - PINK
+    if ostrichColor == "pink":
+      print("\033[33m" "Is the Villager you're looking for named Flora?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Flora")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# Ostrich - PURPLE
+    if ostrichColor == "purple":
+      ostrichGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+      if ostrichGender == "boy":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Phil?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Phil")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+      if ostrichGender == "girl":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Queenie?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Queenie")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# Ostrich - WHITE
+  if ostrichColor == "white":
+    ostrichGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+    if ostrichGender == "boy":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Cranston?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Cranston")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+    if ostrichGender == "girl":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Blanche?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Blanche")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# Ostrich - GREEN
+  if ostrichColor == "green":
+    ostrichGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+    if ostrichGender == "boy":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Sprocket?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Sprocket")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+    if ostrichGender == "girl":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Julia?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Julia")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# Ostrich - ORANGE
+  if ostrichColor == "orange":
+    ostrichVibe = input("Does this Villager look sleepy or fierce? ").lower()
+    if ostrichVibe == "sleepy":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Sandy?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Sandy")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+    if ostrichVibe == "fierce":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Phoebe?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Phoebe")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
 
 # RHINO 
 if species == "rhino":
