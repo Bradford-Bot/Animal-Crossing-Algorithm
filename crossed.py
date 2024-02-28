@@ -266,11 +266,11 @@ if species == "bull":
         print()
         print("Sounds like a you problem.")
 # BULL - GRAY
-if bullColor == "gray":
-    print()
-    print("\033[33m" "Is the Villager you're looking for named Rodeo?"
+    if bullColor == "gray":
+      print()
+      print("\033[33m" "Is the Villager you're looking for named Rodeo?"
             "\033[0m")
-    print()
+      print()
     yn = input("Yes or No? ").lower()
     if yn == "yes":
       print()
@@ -279,31 +279,31 @@ if bullColor == "gray":
       print()
       print("Sounds like a you problem.")
 # Bull - BLUE
-if bullColor == "blue":
-    print()
-    bullPattern = input("Does this Villager have a pattern on their horns? ").lower()
-    if bullPattern == "yes":
-      print("\033[33m" "Is the Villager you're looking for named T-Bone?"
+    if bullColor == "blue":
+      print()
+      bullPattern = input("Does this Villager have a pattern on their horns? ").lower()
+      if bullPattern == "yes":
+        print("\033[33m" "Is the Villager you're looking for named T-Bone?"
             "\033[0m")
-    print()
-    yn = input("Yes or No? ").lower()
-    if yn == "yes":
-      print()
-      print("https://animalcrossing.fandom.com/wiki/T-Bone")
-    if yn == "no":
-      print()
-      print("Sounds like a you problem.")
-    if bullPattern == "no":
-      print("\033[33m" "Is the Villager you're looking for named Stu?"
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/T-Bone")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+      if bullPattern == "no":
+        print("\033[33m" "Is the Villager you're looking for named Stu?"
             "\033[0m")
-    print()
-    yn = input("Yes or No? ").lower()
-    if yn == "yes":
-      print()
-      print("https://animalcrossing.fandom.com/wiki/Stu")
-    if yn == "no":
-      print()
-      print("Sounds like a you problem.")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Stu")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
 
 # BEAR
 if species == "bear":
