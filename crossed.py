@@ -501,7 +501,95 @@ if species == "bear":
         print("Sounds like a you problem.")
 # Kangaroo
 if species == "kangaroo":
-  print('Slay')
+  kangarooColor = input("What is the color of this Villager? ").lower()
+  if kangarooColor == "white":
+    print("\033[33m" "Is the Villager you're looking for named Astrid?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Astrid")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  if kangarooColor == "pink":
+    print("\033[33m" "Is the Villager you're looking for named Marcie?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Marcie")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  if kangarooColor == "black":
+    print("\033[33m" "Is the Villager you're looking for named Mathilda?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Mathilda")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  if kangarooColor == "blue":
+    print("\033[33m" "Is the Villager you're looking for named Rooney?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Rooney")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  if kangarooColor == "purple":
+    print("\033[33m" "Is the Villager you're looking for named Sylvia?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Sylvia")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  if kangarooColor == "gray":
+    print("\033[33m" "Is the Villager you're looking for named Walt?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Walt")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  if kangarooColor == "brown":
+    print("\033[33m" "Is the Villager you're looking for named Kitt?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Kitt")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+  if kangarooColor == "orange":
+    print("\033[33m" "Is the Villager you're looking for named Carrie?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Carrie")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
 # RHINO 
 if species == "rhino":
   rhinoColor = input("What is the color of this Villager? ").lower()
