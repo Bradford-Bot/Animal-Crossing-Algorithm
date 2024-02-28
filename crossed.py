@@ -649,6 +649,59 @@ if species == "kangaroo":
         print()
         print("Sounds like a you problem.")
 
+# OCTOPUS
+if species == "octopus":
+  octopusColor =input("What is the color of this Villager? ")
+# OCTOPUS - GRAY
+  if octopusColor == "gray":
+    print("\033[33m" "Is the Villager you're looking for named Cephalobot?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Cephalobot")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# OCTOPUS - PINK
+  if octopusColor == "pink":
+    print("\033[33m" "Is the Villager you're looking for named Marina?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Marina")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# OCTOPUS - RED
+  if octopusColor == "red":
+    print("\033[33m" "Is the Villager you're looking for named Octavian?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Octavian")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# OCTOPUS - BROWN
+  if octopusColor == "brown":
+    print("\033[33m" "Is the Villager you're looking for named Zucker?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Zucker")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+
+
 # RHINO 
 if species == "rhino":
   rhinoColor = input("What is the color of this Villager? ").lower()
