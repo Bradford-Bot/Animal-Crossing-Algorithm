@@ -1489,6 +1489,60 @@ if species == "rhino":
         print()
         print("Sounds like a you problem.")
 
+# Squirrel
+if species == "squirrel":
+   squirrelColor = input("What is the color of this Villager? ").lower()
+# SQUIRREL - BROWN
+   if squirrelColor == "brown":
+    squirrelGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+    if squirrelGender == "boy":
+      print()
+      print("\033[37m" "Is the Villager you're looking for named Ricky?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Ricky")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if squirrelGender == "girl":
+        print()
+        squirrelBlush = input("Does this Villager have blush marks on their face? ").lower()
+        if squirrelBlush == "yes":
+          print()
+          squirrelUni = input("Does this Villager have a unibrow? ").lower()
+          if squirrelUni == "yes":
+            print()
+            print("\033[33m" "Is the Villager you're looking for named Hazel?"
+            "\033[0m")
+            print()
+            yn = input("Yes or No? ").lower()
+            if yn == "yes":
+              print()
+              print("https://animalcrossing.fandom.com/wiki/Hazel")
+            if yn == "no":
+              print()
+              print("Sounds like a you problem.")
+          if squirrelUni == "no":
+            print()
+            print("\033[33m" "Is the Villager you're looking for named Cally?"
+            "\033[0m")
+            print()
+            yn = input("Yes or No? ").lower()
+            if yn == "yes":
+              print()
+              print("https://animalcrossing.fandom.com/wiki/Cally")
+            if yn == "no":
+              print()
+              print("Sounds like a you problem.")
+        if squirrelBlush == "no":
+           print()
+             
+      
+
 # TIGER
 if species == "tiger":
   tigerColor = input("What is the color of this Villager? ").lower()
