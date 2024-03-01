@@ -1508,6 +1508,252 @@ if species == "octopus":
 # RABBIT
 if species == "rabbit":
   rabbitColor = input("What is the color of this Villager? ")
+# RABBIT - RED
+  if rabbitColor == "red":
+    print("\033[33m" "Is the Villager you're looking for named Bunnie?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Bunnie")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# RABBIT - BLACK
+  if rabbitColor == "black":
+    print("\033[33m" "Is the Villager you're looking for named Dotty?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Dotty")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# RABBIT - GREEN
+  if rabbitColor == "green":
+    print("\033[33m" "Is the Villager you're looking for named Sasha?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Sasha")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# RABBIT - WHITE
+  if rabbitColor == "white":
+    rm = input("Does this Villager wear makeup? ").lower()
+    if rm == "yes":
+      print("\033[33m" "Is the Villager you're looking for named Tiffany?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Tiffany")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if rm == "no":
+       rre = input("Does this Villager have red eyes? ").lower()
+       if rre == "yes":
+        print("\033[33m" "Is the Villager you're looking for named Ruby?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Ruby")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+       rre = input("Does this Villager have red eyes? ").lower()
+       if rre == "no":
+        print("\033[33m" "Is the Villager you're looking for named Gabi?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Gabi")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# RABBIT - PINK
+  if rabbitColor == "pink":
+     print("\033[33m" "Is the Villager you're looking for named Snake?"
+            "\033[0m")
+     print()
+     yn = input("Yes or No? ").lower()
+     if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Sanke")
+     if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# RABBIT - BLUE
+  if rabbitColor == "blue":
+    rlod = input("Is this Villager a light or dark blue? ").lower()
+    if rlod == "light":
+      print("\033[33m" "Is the Villager you're looking for named Hopkins?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Hopkins")
+      if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+    if rlod == "dark":
+      print("\033[33m" "Is the Villager you're looking for named Doc?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Doc")
+      if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# RABBIT - WHITE
+  if rabbitColor == "white":
+     rh = input("Does this Villager wear a pink or blue headpiece? ").lower()
+     if rh == "pink":
+      print("\033[33m" "Is the Villager you're looking for named Chrissy?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Chrissy")
+      if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+     if rh == "blue":
+      print("\033[33m" "Is the Villager you're looking for named Francine?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Francine")
+      if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# RABBIT - YELLOW
+  if rabbitColor == "yellow":
+    rhc = input("Does this Villager have a haircut? ").lower()
+    if rhc == "yes":
+       wrhc = input("What is the color of this Villager's hair? Dark or light? ").lower()
+       if wrhc == "dark":
+        print("\033[33m" "Is the Villager you're looking for named Toby?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Toby")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+       if wrhc == "light":
+        print("\033[33m" "Is the Villager you're looking for named Pippy?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Pippy")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+    if rhc == "no":
+       rm = input("Does this rabbit have a mousthac? ").lower()
+       if rm == "no":
+        print("\033[33m" "Is the Villager you're looking for named Mira?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Mira")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+       if rm == "yes":
+        print("\033[33m" "Is the Villager you're looking for named Gaston?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Gaston")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# RABBIT - BROWN
+  if rabbitColor == "brown":
+     reye = input("Does this Villager have eyes?" ).lower()
+     if reye == "no":
+        print("\033[33m" "Is the Villager you're looking for named Coco?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Coco")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+     if reye == "yes":
+        rabbitGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+        if rabbitGender == "girl":
+           grh = input("Does this Villager have blonde hair? ").lower()
+           if grh == "yes":
+              print("\033[33m" "Is the Villager you're looking for named Bonbon?"
+            "\033[0m")
+              print()
+              yn = input("Yes or No? ").lower()
+              if yn == "yes":
+                print()
+                print("https://animalcrossing.fandom.com/wiki/Bonbon")
+              if yn == "no":
+                print()
+                print("Sounds like a you problem.")
+           if grh == "no":
+              print("\033[33m" "Is the Villager you're looking for named Carmen?"
+            "\033[0m")
+              print()
+              yn = input("Yes or No? ").lower()
+              if yn == "yes":
+                print()
+                print("https://animalcrossing.fandom.com/wiki/Carmen")
+              if yn == "no":
+                print()
+                print("Sounds like a you problem.")
+        if rabbitGender == "boy":
+           rec = input("Does this Villager have blue eyes? ").lower()
+           if rec == "yes":
+              print("\033[33m" "Is the Villager you're looking for named Cole?"
+            "\033[0m")
+              print()
+              yn = input("Yes or No? ").lower()
+              if yn == "yes":
+                print()
+                print("https://animalcrossing.fandom.com/wiki/Cole")
+              if yn == "no":
+                print()
+                print("Sounds like a you problem.")
+           if rec == "no":
+           
+        
+
 
 # RHINO 
 if species == "rhino":
