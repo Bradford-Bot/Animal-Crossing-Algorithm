@@ -1751,6 +1751,29 @@ if species == "rabbit":
                 print()
                 print("Sounds like a you problem.")
            if rec == "no":
+              unir = input("Does this Villager have a unibrow? ").lower()
+              if unir == "no":
+                print("\033[33m" "Is the Villager you're looking for named" "O’Hare?"
+            "\033[0m")
+                print()
+                yn = input("Yes or No? ").lower()
+                if yn == "yes":
+                  print()
+                  print("https://animalcrossing.fandom.com/wiki/O%27Hare")
+                if yn == "no":
+                  print()
+                  print("Sounds like a you problem.")
+              if unir == "yes":
+                print("\033[33m" "Is the Villager you're looking for named Claude?"
+            "\033[0m")
+                print()
+                yn = input("Yes or No? ").lower()
+                if yn == "yes":
+                  print()
+                  print("https://animalcrossing.fandom.com/wiki/Claude")
+                if yn == "no":
+                  print()
+                  print("Sounds like a you problem.")
            
         
 
