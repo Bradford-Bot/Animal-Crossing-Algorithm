@@ -1,13 +1,17 @@
 print()
+print("\033[31m" "PLEASE BE ADVISED" "\033[0m")
+print()
+print("\033[31m" "COLORS ARE BASED OFF ON MAJORITY PRESENTED" "\033[0m")
+print()
+print("\033[31m" "TAN IS EQUAL TO BROWN" "\033[0m")
+print()
 print("\033[32m" "Animal Crossing Algorithm" "\033[0m")
 print("")
 print("\033[32m" "Looking for a villager and can't put your finger on what their name"
 " is? Answer the questions below and find out!" "\033[0m")
 print()
-
 species = input("What species is your villager? ").lower()
 print()
-
 #SPECIAL
 if species == "special":
   print("Cameron: Katt!")
@@ -1505,9 +1509,211 @@ if species == "octopus":
           print()
           print("Sounds like a you problem.")
 
+# PIG
+if species == "pig":
+  pigColor = input("What is the color of this Villager? ").lower()
+# PIG - BLACK
+  if pigColor == "black":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Agnes?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Agnes")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# PIG - GREEN
+  if pigColor == "green":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Cobb?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Cobb")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# PIG - RED
+  if pigColor == "red":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Rasher?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Rasher")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# PIG - ORANGE
+  if pigColor == "orange":
+     pigGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+     if pigGender == "boy":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Kevin?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Kevin")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+     if pigGender == "girl":
+        pbh = input("Does this Villager have blonde hair? ").lower()
+        if pbh == "no":
+          print()
+          print("\033[34m" "Is the Villager you're looking for named Maggie?"
+            "\033[0m")
+          print()
+          yn = input("Yes or No? ").lower()
+          if yn == "yes":
+            print()
+            print("https://animalcrossing.fandom.com/wiki/Maggie")
+          if yn == "no":
+            print()
+            print("Sounds like a you problem.")
+        if pbh == "yes":
+          print()
+          print("\033[34m" "Is the Villager you're looking for named Pancetti?"
+            "\033[0m")
+          print()
+          yn = input("Yes or No? ").lower()
+          if yn == "yes":
+            print()
+            print("https://animalcrossing.fandom.com/wiki/Pancetti")
+          if yn == "no":
+            print()
+            print("Sounds like a you problem.")
+# PIG - PURPLE
+  if pigColor == "purple":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Boris?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Boris")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# PIG - BLUE
+  if pigColor == "blue":
+        print()
+        print("\033[34m" "Is the Villager you're looking for named Hugh?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Hugh")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# PIG - BROWN
+  if pigColor == "brown":
+   pigGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+   if pigGender == "girl":
+    print("\033[33m" "Is the Villager you're looking for named Peggy?"
+            "\033[0m")
+    print()
+    yn = input("Yes or No? ").lower()
+    if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Peggy")
+    if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+   if pigGender == "boy":
+      pigGrin = input("Does this Villager have a grin on their face? ").lower()
+      if pigGrin == "yes":
+        print("\033[33m" "Is the Villager you're looking for named Spork?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Spork")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+      if pigGrin == "no":
+        print("\033[33m" "Is the Villager you're looking for named Chops?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Chops")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# PIG - WHITE
+  if pigColor == "white":
+        print("\033[33m" "Is the Villager you're looking for named Lucy?"
+            "\033[0m")
+        print()
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Lucy")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
+# PIG - PINK
+  if pigColor == "pink":
+     pigGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+                       "\033[30m""\033[37m""? ""\033[0m").lower()
+     if pigGender == "boy":
+      print("\033[33m" "Is the Villager you're looking for named Curly?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Curly")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+     if pigGender == "girl":
+        bbc = input("Does this Villager have a brown bowl cut? ").lower()
+        if bbc == "yes":
+          print("\033[33m" "Is the Villager you're looking for named Truffles?"
+            "\033[0m")
+          print()
+          yn = input("Yes or No? ").lower()
+          if yn == "yes":
+            print()
+            print("https://animalcrossing.fandom.com/wiki/Truffles")
+          if yn == "no":
+            print()
+            print("Sounds like a you problem.")
+        if bbc == "no":
+          print("\033[33m" "Is the Villager you're looking for named Gala?"
+            "\033[0m")
+          print()
+          yn = input("Yes or No? ").lower()
+          if yn == "yes":
+            print()
+            print("https://animalcrossing.fandom.com/wiki/Gala")
+          if yn == "no":
+            print()
+            print("Sounds like a you problem.")
+
+
 # RABBIT
 if species == "rabbit":
-  rabbitColor = input("What is the color of this Villager? ")
+  rabbitColor = input("What is the color of this Villager? ").lower()
 # RABBIT - RED
   if rabbitColor == "red":
     print("\033[33m" "Is the Villager you're looking for named Bunnie?"
