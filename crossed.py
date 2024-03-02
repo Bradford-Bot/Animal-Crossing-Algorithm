@@ -656,7 +656,45 @@ if species == "bear":
               print("Sounds like a you problem.")
 # BEAR - BLUE
   if bearColor == "blue":
-     print()
+     bfh = input("Does this Villager haev facial hair? ").lower()
+     if bfh == "yes":
+      print()
+      print("\033[33m" "Is the Villager you're looking for named Beardo?"
+                  "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+              print()
+              print("https://animalcrossing.fandom.com/wiki/Beardo")
+      if yn == "no":
+              print()
+              print("Sounds like a you problem.")
+     if bfh == "no":
+        ba = input("Does this Villager look angry? ").lower()
+        if ba == "no":
+          print()
+          print("\033[33m" "Is the Villager you're looking for named Groucho?"
+                  "\033[0m")
+          print()
+          yn = input("Yes or No? ").lower()
+          if yn == "yes":
+              print()
+              print("https://animalcrossing.fandom.com/wiki/Groucho")
+          if yn == "no":
+              print()
+              print("Sounds like a you problem.")
+        if ba == "yes":
+          print()
+          print("\033[33m" "Is the Villager you're looking for named Curt?"
+                  "\033[0m")
+          print()
+          yn = input("Yes or No? ").lower()
+          if yn == "yes":
+              print()
+              print("https://animalcrossing.fandom.com/wiki/Curt")
+          if yn == "no":
+              print()
+              print("Sounds like a you problem.")
 
 
 # CAT
@@ -3273,13 +3311,13 @@ if species == "wolf":
         print("Sounds like a you problem.")
       if cuteOrSleek == "sleek":
         print()
-        print("\033[34m" "Is the Villager you're looking for named W?"
+        print("\033[34m" "Is the Villager you're looking for named Whitney?"
             "\033[0m")
-      print()
-      yn = input("Yes or No? ").lower()
-      if yn == "yes":
         print()
-        print("https://animalcrossing.fandom.com/wiki/Whitney")
-      if yn == "no":
-        print()
-        print("Sounds like a you problem.")
+        yn = input("Yes or No? ").lower()
+        if yn == "yes":
+          print()
+          print("https://animalcrossing.fandom.com/wiki/Whitney")
+        if yn == "no":
+          print()
+          print("Sounds like a you problem.")
