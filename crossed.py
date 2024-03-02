@@ -656,45 +656,8 @@ if species == "bear":
               print("Sounds like a you problem.")
 # BEAR - BLUE
   if bearColor == "blue":
-    print()
-    bearHairColor = input("Is the facial hair of this Villager brown or blonde? Or"
-                          " neither? ").lower()
-    if bearHairColor == "brown":
-      print()
-      print("\033[34m" "Is the Villager you're looking for named Beardo ?"
-            "\033[0m")
-      print()
-      yn = input("Yes or No? ").lower()
-      if yn == "yes":
-        print()
-        print("https://animalcrossing.fandom.com/wiki/Beardo")
-      if yn == "no":
-        print()
-        print("Sounds like a you problem.")
-    if bearHairColor == "blonde":
-      print()
-      print("\033[34m" "Is the Villager you're looking for named Groucho?"
-            "\033[0m")
-      print()
-      yn = input("Yes or No? ").lower()
-      if yn == "yes":
-        print()
-        print("https://animalcrossing.fandom.com/wiki/Groucho")
-      if yn == "no":
-        print()
-        print("Sounds like a you problem.")
-    if bearHairColor == "neither":
-      print()
-      print("\033[34m" "Is the Villager you're looking for named Curt?"
-            "\033[0m")
-      print()
-      yn = input("Yes or No? ").lower()
-      if yn == "yes":
-        print()
-        print("https://animalcrossing.fandom.com/wiki/Curt")
-      if yn == "no":
-        print()
-        print("Sounds like a you problem.")
+     print()
+
 
 # CAT
 if species == "cat":
@@ -752,6 +715,194 @@ if species == "cow":
     if yn == "no":
         print()
         print("Sounds like a you problem.")
+# DUCK
+if species == "duck":
+  duckColor = input("What is the Color of this Villager? ").lower()
+# DUCK - REBD
+  if duckColor == "red":
+    duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+    "\033[30m""\033[37m""? ""\033[0m").lower()
+    if duckGender == "girl":
+      print("\033[32m" "Is the Villager you're looking for named Ketchup?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Ketchup")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if duckGender == "boy":
+      print("\033[32m" "Is the Villager you're looking for named Bill?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Bill")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# DUCK - PINK
+  if duckColor == "pink":
+    we = input("Are the eyes of this Villager set wide apart? ").lower()
+    if we == "yes":
+      print("\033[32m" "Is the Villager you're looking for named Freckles?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Freckles")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if we == "no":
+      print("\033[32m" "Is the Villager you're looking for named Miranda?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Miranda")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# DUCK - WHITE
+  if duckColor == "white":
+    dhc = input("Does this Vilager have purple hair? ").lower()
+    if dhc == "yes":
+      print("\033[32m" "Is the Villager you're looking for named Gloria?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Gloria")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if dhc == "no":
+      print("\033[32m" "Is the Villager you're looking for named Pompom?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Pompom")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# DUCK - BLUE 
+  if duckColor == "blue":
+    duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+    "\033[30m""\033[37m""? ""\033[0m").lower()
+    if duckGender == "girl":
+      print("\033[32m" "Is the Villager you're looking for named Pate?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Pate")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if duckGender == "boy":
+      print("\033[32m" "Is the Villager you're looking for named Derwin?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Derwin")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# DUCK - YELLOW
+  if duckColor == "yellow":
+    duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+    "\033[30m""\033[37m""? ""\033[0m").lower()
+    if duckGender == "girl":
+      print("\033[32m" "Is the Villager you're looking for named Maelle?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Maelle")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if duckGender == "boy":
+      print("\033[32m" "Is the Villager you're looking for named Joey?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Joey")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# DUCK - PURPLE 
+  if duckColor == "purple":
+      print("\033[32m" "Is the Villager you're looking for named Mallary?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Mallary")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# DUCK - BROWN
+  if duckColor == "brown":
+    duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+    "\033[30m""\033[37m""? ""\033[0m").lower()
+    if duckGender == "girl":
+      print("\033[32m" "Is the Villager you're looking for named Molly?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Molly")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if duckGender == "boy":
+      print("\033[32m" "Is the Villager you're looking for named Weber?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Weber")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+# DUCK - GREEN
+  if duckColor == "green":
+    duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
+    "\033[30m""\033[37m""? ""\033[0m").lower()
+    if duckGender == "girl":
+      print("\033[32m" "Is the Villager you're looking for named Deena?"
+            "\033[0m")
+      print()
+      yn = input("Yes or No? ").lower()
+      if yn == "yes":
+        print()
+        print("https://animalcrossing.fandom.com/wiki/Deena")
+      if yn == "no":
+        print()
+        print("Sounds like a you problem.")
+    if duckGender == "boy":
+     
+       
+    
 
 #Elephant
 # Elephant - GREEN
