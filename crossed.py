@@ -1807,13 +1807,14 @@ if species == "dog":
 # DUCK
 if species == "duck":
   duckColor = input("What is the main color of this Villager? ").lower()
+  print()
 # DUCK - RED
   if duckColor == "red":
-    print()
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
     "\033[30m""\033[37m""? ""\033[0m").lower()
     if duckGender == "girl":
-      print("\033[32m" "Is the Villager you're looking for named Ketchup?"
+      print()
+      print("\033[31m" "Is the Villager you're looking for named Ketchup?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
@@ -1839,7 +1840,8 @@ if species == "duck":
   if duckColor == "pink":
     we = input("Are the eyes of this Villager set wide apart? ").lower()
     if we == "yes":
-      print("\033[32m" "Is the Villager you're looking for named Freckles?"
+      print()
+      print("\033[31m" "Is the Villager you're looking for named Freckles?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
@@ -1850,7 +1852,8 @@ if species == "duck":
         print()
         print("Sounds like a you problem.")
     if we == "no":
-      print("\033[32m" "Is the Villager you're looking for named Miranda?"
+      print()
+      print("\033[31m" "Is the Villager you're looking for named Miranda?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
@@ -1864,7 +1867,8 @@ if species == "duck":
   if duckColor == "white":
     dhc = input("Does this Vilager have purple hair? ").lower()
     if dhc == "yes":
-      print("\033[32m" "Is the Villager you're looking for named Gloria?"
+      print()
+      print("\033[35m" "Is the Villager you're looking for named Gloria?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
@@ -1889,6 +1893,7 @@ if species == "duck":
   if duckColor == "blue":
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
     "\033[30m""\033[37m""? ""\033[0m").lower()
+    print()
     if duckGender == "girl":
       print("\033[32m" "Is the Villager you're looking for named Pate?"
             "\033[0m")
@@ -1901,7 +1906,7 @@ if species == "duck":
         print()
         print("Sounds like a you problem.")
     if duckGender == "boy":
-      print("\033[32m" "Is the Villager you're looking for named Derwin?"
+      print("\033[34m" "Is the Villager you're looking for named Derwin?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
@@ -1916,7 +1921,8 @@ if species == "duck":
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
     "\033[30m""\033[37m""? ""\033[0m").lower()
     if duckGender == "girl":
-      print("\033[32m" "Is the Villager you're looking for named Maelle?"
+      print()
+      print("\033[35m" "Is the Villager you're looking for named Maelle?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
@@ -1927,7 +1933,8 @@ if species == "duck":
         print()
         print("Sounds like a you problem.")
     if duckGender == "boy":
-      print("\033[32m" "Is the Villager you're looking for named Joey?"
+      print()
+      print("\033[33m" "Is the Villager you're looking for named Joey?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
@@ -1954,7 +1961,8 @@ if species == "duck":
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
     "\033[30m""\033[37m""? ""\033[0m").lower()
     if duckGender == "girl":
-      print("\033[32m" "Is the Villager you're looking for named Molly?"
+      print()
+      print("\033[33m" "Is the Villager you're looking for named Molly?"
             "\033[0m")
       print()
       yn = input("Yes or No? ").lower()
@@ -1980,6 +1988,7 @@ if species == "duck":
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
     "\033[30m""\033[37m""? ""\033[0m").lower()
     if duckGender == "girl":
+      print()
       print("\033[32m" "Is the Villager you're looking for named Deena?"
             "\033[0m")
       print()
@@ -2019,6 +2028,7 @@ if species == "duck":
               print()
               print("Sounds like a you problem.")
          if db == "no":
+            print()
             print("\033[32m" "Is the Villager you're looking for named Drake?"
             "\033[0m")
             print()
