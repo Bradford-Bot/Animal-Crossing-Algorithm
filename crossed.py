@@ -35,7 +35,7 @@ if species == "alligator":
         print("https://animalcrossing.fandom.com/wiki/Sly")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if gatorPattern == "circles":
       print()
       print("\033[33m" "Is the Villager you're looking for named Alfonso?" "\033[0m")
@@ -46,7 +46,7 @@ if species == "alligator":
         print("https://animalcrossing.fandom.com/wiki/Alfonso")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 #ALLIGATOR - BLUE
   if gatorColor == "blue":
     print("\033[36m" "Is the Villager you're looking for named Alli?" "\033[0m")
@@ -57,7 +57,7 @@ if species == "alligator":
       print("https://animalcrossing.fandom.com/wiki/Alli")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 #ALLIGATOR - GREEN
   if gatorColor == "green":
     gatorTraits = input("Does this Villager look happy or angry? ").lower()
@@ -93,7 +93,7 @@ if species == "alligator":
       print("https://animalcrossing.fandom.com/wiki/Del")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # ALLIGATOR - PINK
   if gatorColor == "pink":
     print("\033[31m" "Is the Villager you're looking for named Gayle?" "\033[0m")
@@ -104,7 +104,7 @@ if species == "alligator":
       print("https://animalcrossing.fandom.com/wiki/Gayle")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
  # ALLIGATOR - BROWN
   if gatorColor == "brown":
     print("\033[33m" "Is the Villager you're looking for named Roswell?" "\033[0m")
@@ -115,8 +115,7 @@ if species == "alligator":
       print("https://animalcrossing.fandom.com/wiki/Roswell")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
-
+      print("Refresh the page and rethink your answers.")
 # ANTEATER
 if species == "anteater":
 # ANTEATER - YELLOW
@@ -131,7 +130,7 @@ if species == "anteater":
         print("https://animalcrossing.fandom.com/wiki/Anabelle")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
  # ANTEATER - GREEN
   if anteaterColor == "green":
       print()
@@ -143,7 +142,7 @@ if species == "anteater":
         print("https://animalcrossing.fandom.com/wiki/Pango")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
  # ANTEATER - BROWN
   if anteaterColor == "brown":
       print()
@@ -155,7 +154,7 @@ if species == "anteater":
         print("https://animalcrossing.fandom.com/wiki/Antonio")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # ANTEATER - WHITE
   if anteaterColor == "white":
           print()
@@ -168,7 +167,7 @@ if species == "anteater":
             print("https://animalcrossing.fandom.com/wiki/Annalisa")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # ANTEATER - ORANGE
   if anteaterColor == "orange":
       print()
@@ -180,7 +179,7 @@ if species == "anteater":
         print("https://animalcrossing.fandom.com/wiki/Olaf")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # ANTEATER - BLUE
   if anteaterColor == "blue":
     anteaterGender = input("Is the Villager you're looking for a" "\033[34m" " boy "
@@ -196,7 +195,7 @@ if species == "anteater":
         print("https://animalcrossing.fandom.com/wiki/Cyrano")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if anteaterGender == "girl":
       print()
       print("\033[34m" "Is the Villager you're looking for named Zoe?""\033[0m")
@@ -207,7 +206,7 @@ if species == "anteater":
         print("https://animalcrossing.fandom.com/wiki/Zoe")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # ANTEATER - PINK
   if anteaterColor == "pink":
     print()
@@ -219,7 +218,7 @@ if species == "anteater":
       print("https://animalcrossing.fandom.com/wiki/Snooty_(villager)")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 
 # BIRD
 if species == "bird":
@@ -236,7 +235,7 @@ if species == "bird":
         print("https://animalcrossing.fandom.com/wiki/Twiggy")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BIRD - PINK
    if birdColor == "pink":
       print()
@@ -249,7 +248,7 @@ if species == "bird":
         print("https://animalcrossing.fandom.com/wiki/Midge")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BIRD - RED
    if birdColor == "red":
       print()
@@ -262,7 +261,7 @@ if species == "bird":
         print("https://animalcrossing.fandom.com/wiki/Lucha")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BIRD - PURPLE
    if birdColor == "purple":
       print()
@@ -275,7 +274,7 @@ if species == "bird":
         print("https://animalcrossing.fandom.com/wiki/Jacques")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BIRD - green
    if birdColor == "green":
       print()
@@ -291,7 +290,7 @@ if species == "bird":
           print("https://animalcrossing.fandom.com/wiki/Admiral")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if aot == "tired":
         print()
         print("\033[32m" "Is the Villager you're looking for named Jitters?"
@@ -303,7 +302,7 @@ if species == "bird":
           print("https://animalcrossing.fandom.com/wiki/Jitters")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # BIRD - WHITE
    if birdColor == "white":
      print()
@@ -321,7 +320,7 @@ if species == "bird":
           print("https://animalcrossing.fandom.com/wiki/Jacob")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
      if birdGender == "girl":
         print()
         print("\033[37m" "Is the Villager you're looking for named Piper?"
@@ -333,7 +332,7 @@ if species == "bird":
           print("https://animalcrossing.fandom.com/wiki/Piper")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # BIRD - BLUE
    if birdColor == "blue":
      print()
@@ -351,7 +350,7 @@ if species == "bird":
           print("https://animalcrossing.fandom.com/wiki/Robin")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
      if birdGender == "boy":
         print()
         be = input("Does this Villager have an expressive face? ").lower()
@@ -366,7 +365,7 @@ if species == "bird":
             print("https://animalcrossing.fandom.com/wiki/Ace")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if be == "yes":
           print()
           print("\033[34m" "Is the Villager you're looking for named Jay?"
@@ -378,7 +377,7 @@ if species == "bird":
             print("https://animalcrossing.fandom.com/wiki/Jay")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # BIRD - BROWN
    if birdColor == "brown":
       print()
@@ -395,7 +394,7 @@ if species == "bird":
             print("https://animalcrossing.fandom.com/wiki/Anchovy")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
       if bbe == "no":
          bse = input("Does this Villager have sunken in eyes? ").lower()
          if bse == "yes":
@@ -409,7 +408,7 @@ if species == "bird":
             print("https://animalcrossing.fandom.com/wiki/Sparro")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
          if bse == "no":
           print()
           print("\033[33m" "Is the Villager you're looking for named Peck?"
@@ -421,7 +420,7 @@ if species == "bird":
             print("https://animalcrossing.fandom.com/wiki/Peck")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 
 #BULL
 if species == "bull":
@@ -438,7 +437,7 @@ if species == "bull":
         print("https://animalcrossing.fandom.com/wiki/Angus")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BULL - YELLOW
     if bullColor == "yellow":
       print()
@@ -451,7 +450,7 @@ if species == "bull":
         print("https://animalcrossing.fandom.com/wiki/Coach")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
  # BULL - BROWN
     if bullColor == "brown":
       print()
@@ -464,7 +463,7 @@ if species == "bull":
         print("https://animalcrossing.fandom.com/wiki/Vic")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BULL - GRAY
     if bullColor == "gray":
       print()
@@ -477,7 +476,7 @@ if species == "bull":
         print("https://animalcrossing.fandom.com/wiki/Rodeo")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # Bull - BLUE
     if bullColor == "blue":
       print()
@@ -493,7 +492,7 @@ if species == "bull":
           print("https://animalcrossing.fandom.com/wiki/Stu")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if bullPattern == "no":
         print()
         print("\033[34m" "Is the Villager you're looking for named T-Bone?"
@@ -505,7 +504,7 @@ if species == "bull":
           print("https://animalcrossing.fandom.com/wiki/T-Bone")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 
 # BEAR
 if species == "bear":
@@ -521,7 +520,7 @@ if species == "bear":
         print("https://animalcrossing.fandom.com/wiki/Charlise")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BEAR - orange
   if bearColor == "orange":
       print("\033[33m" "Is the Villager you're looking for named Nate?""\033[0m")
@@ -532,7 +531,7 @@ if species == "bear":
         print("https://animalcrossing.fandom.com/wiki/Nate")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BEAR - PURPLE
   if bearColor == "purple":
     print("\033[35m" "Is the Villager you're looking for named Megan?""\033[0m")
@@ -543,7 +542,7 @@ if species == "bear":
         print("https://animalcrossing.fandom.com/wiki/Megan")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # BEAR - PINK
   if bearColor == "pink":
     bearGender = input("Is the Villager you're looking for a" "\033[34m" " boy "
@@ -559,7 +558,7 @@ if species == "bear":
         print("https://animalcrossing.fandom.com/wiki/Chow")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if bearGender == "girl":
         print()
         print("\033[31m" "Is the Villager you're looking for named Ursala?""\033[0m")
@@ -570,7 +569,7 @@ if species == "bear":
           print("https://animalcrossing.fandom.com/wiki/Ursala")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # BEAR - WHITE
   if bearColor == "white":
       bearBangs = input("Is the color of this bears bangs pink or blonde? ").lower()
@@ -584,7 +583,7 @@ if species == "bear":
           print("https://animalcrossing.fandom.com/wiki/Pinky")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if bearBangs == "blonde":
         print()
         print("\033[37m" "Is the Villager you're looking for named Tutu?""\033[0m")
@@ -595,7 +594,7 @@ if species == "bear":
           print("https://animalcrossing.fandom.com/wiki/Tutu")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # BEAR - BROWN
   if bearColor == "brown":
     bearGender = input("Is the Villager you're looking for a" "\033[34m" " boy "
@@ -611,7 +610,7 @@ if species == "bear":
           print("https://animalcrossing.fandom.com/wiki/Paula")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if bearGender == "boy":
         print()
         bearEyebrows = input("Does this Villager have thick eyebrows? ").lower()
@@ -625,7 +624,7 @@ if species == "bear":
             print("https://animalcrossing.fandom.com/wiki/Ike")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if bearEyebrows == "yes":
           print()
           bearShade = input("Is this Villager lighter or darker? ").lower()
@@ -639,7 +638,7 @@ if species == "bear":
               print("https://animalcrossing.fandom.com/wiki/Teddy")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
           if bearShade == "darker":
             print()
             print("\033[33m" "Is the Villager you're looking for named Grizzly?"
@@ -651,7 +650,7 @@ if species == "bear":
               print("https://animalcrossing.fandom.com/wiki/Grizzly")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
 # BEAR - BLUE
   if bearColor == "blue":
      bfh = input("Does this Villager have facial hair? ").lower()
@@ -666,7 +665,7 @@ if species == "bear":
               print("https://animalcrossing.fandom.com/wiki/Beardo")
       if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
      if bfh == "no":
         ba = input("Does this Villager look angry? ").lower()
         print()
@@ -683,7 +682,7 @@ if species == "bear":
               print("https://animalcrossing.fandom.com/wiki/Groucho")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
           if lbb == "yes":
             print()
             print("\033[34m" "Is the Villager you're looking for named Klaus?"
@@ -695,7 +694,7 @@ if species == "bear":
               print("https://animalcrossing.fandom.com/wiki/Klaus")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
         if ba == "yes":
           print("\033[34m" "Is the Villager you're looking for named Curt?"
                   "\033[0m")
@@ -706,7 +705,7 @@ if species == "bear":
               print("https://animalcrossing.fandom.com/wiki/Curt")
           if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
 # CAT
 if species == "cat":
    catColor = input("What is the main color of this Villager? ").lower()
@@ -725,7 +724,7 @@ if species == "cat":
         print("https://animalcrossing.fandom.com/wiki/Tabby")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
      if cl == "yes":
       print()
       print("\033[33m" "Is the Villager you're looking for named Tangy?"
@@ -737,7 +736,7 @@ if species == "cat":
         print("https://animalcrossing.fandom.com/wiki/Tangy")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CAT - GREEN
    if catColor == "green":
     print()
@@ -750,7 +749,7 @@ if species == "cat":
       print("https://animalcrossing.fandom.com/wiki/Stinky")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # CAT - YELLOW
    if catColor == "yellow":
     print()
@@ -763,7 +762,7 @@ if species == "cat":
       print("https://animalcrossing.fandom.com/wiki/Ankha")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # CAT - PURPLE
    if catColor == "purple":
     print()
@@ -776,7 +775,7 @@ if species == "cat":
       print("https://animalcrossing.fandom.com/wiki/Bob")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # CAT - BLACK
    if catColor == "black":
     print()
@@ -789,7 +788,7 @@ if species == "cat":
       print("https://animalcrossing.fandom.com/wiki/Kiki")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # CAT - GRAY
    if catColor == "gray":
     print()
@@ -806,7 +805,7 @@ if species == "cat":
         print("https://animalcrossing.fandom.com/wiki/Lolly")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if cubGender == "boy":
       print()
       print("\033[30m" "Is the Villager you're looking for named Raymond?"
@@ -818,7 +817,7 @@ if species == "cat":
         print("https://animalcrossing.fandom.com/wiki/Raymond")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CAT - BLUE
    if catColor == "blue":
     print()
@@ -835,7 +834,7 @@ if species == "cat":
         print("https://animalcrossing.fandom.com/wiki/Rosie")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if catGender == "boy":
       print()
       ccp = input("Does this Villager have circular pupils? ").lower()
@@ -850,7 +849,7 @@ if species == "cat":
           print("https://animalcrossing.fandom.com/wiki/Tom")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if ccp == "no":
         print()
         print("\033[34m" "Is the Villager you're looking for named Moe?"
@@ -862,7 +861,7 @@ if species == "cat":
           print("https://animalcrossing.fandom.com/wiki/Moe")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # CAT - BROWN
    if catColor == "brown":
     print()
@@ -879,7 +878,7 @@ if species == "cat":
         print("https://animalcrossing.fandom.com/wiki/Rudy")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if catGender == "girl":
       print()
       ct = input("Is this Villager tan? ").lower()
@@ -897,7 +896,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Merry")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if cb == "no":
           print()
           print("\033[33m" "Is the Villager you're looking for named Felicity?"
@@ -909,7 +908,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Felicity")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
       if ct == "no":
         print()
         cmu = input("Does this Villager have on pink eyeshadow? ").lower()
@@ -924,7 +923,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Kitty")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if cmu == "no":
           print()
           print("\033[33m" "Is the Villager you're looking for named Katt?"
@@ -936,7 +935,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Katt")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # CAT - WHITE
    if catColor == "white":
     print()
@@ -956,7 +955,7 @@ if species == "cat":
           print("https://animalcrossing.fandom.com/wiki/Kabuki")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if cr == "no":
         print()
         cbl = input("Does this Villager have a black forehead? ").lower()
@@ -971,7 +970,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Punchy")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if cbl == "no":
           print()
           print("\033[37m" "Is the Villager you're looking for named Kid Cat?"
@@ -983,7 +982,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Kid_Cat")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
     if catGender == "girl":
       print()
       cmk = input("Is this Villager wearing makeup? ").lower()
@@ -1001,7 +1000,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Monique")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if cbh == "no":
           print()
           print("\033[37m" "Is the Villager you're looking for named Olivia?"
@@ -1013,7 +1012,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Olivia")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
       if cmk == "no":
         bfc = input("Is there a blue circle on this Villagers face? ").lower()
         print()
@@ -1027,7 +1026,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Mitzi")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if bfc == "no":
           print("\033[37m" "Is the Villager you're looking for named Purrl?"
                   "\033[0m")
@@ -1038,7 +1037,7 @@ if species == "cat":
             print("https://animalcrossing.fandom.com/wiki/Purrl")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # CUB
 if species == "cub":
   cubColor = input("What is the main color of this Villager? ").lower()
@@ -1054,7 +1053,7 @@ if species == "cub":
       print("https://animalcrossing.fandom.com/wiki/Vladimir")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # CUB - PURPLE
   if cubColor == "purple":
     print()
@@ -1067,7 +1066,7 @@ if species == "cub":
       print("https://animalcrossing.fandom.com/wiki/Judy")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # CUB - red
   if cubColor == "red":
     print()
@@ -1080,7 +1079,7 @@ if species == "cub":
       print("https://animalcrossing.fandom.com/wiki/Cheri")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # CUB - green
   if cubColor == "green":
     print()
@@ -1093,7 +1092,7 @@ if species == "cub":
       print("https://animalcrossing.fandom.com/wiki/Murphy")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # CUB - GRAY
   if cubColor == "gray":
     print()
@@ -1110,7 +1109,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Olive")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if cubGender == "boy":
       print()
       print("\033[30m" "Is the Villager you're looking for named Barold?"
@@ -1122,7 +1121,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Barold")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CUB - YELLOW
   if cubColor == "yellow":
     print()
@@ -1139,7 +1138,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Tammy")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if cubGender == "boy":
       print()
       print("\033[33m" "Is the Villager you're looking for named Marty?"
@@ -1151,7 +1150,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Marty")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CUB - orange
   if cubColor == "orange":
     print()
@@ -1167,7 +1166,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Stitches")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if obp == "no":
       print()
       print("\033[33m" "Is the Villager you're looking for named Pudge?"
@@ -1179,7 +1178,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Pudge")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CUB - BLUE
   if cubColor == "blue":
     print()
@@ -1196,7 +1195,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Bluebear")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if cubGender == "boy":
       print()
       bds = input("Does this Villager have a dark spot of blue on its face? ").lower()
@@ -1211,7 +1210,7 @@ if species == "cub":
           print("https://animalcrossing.fandom.com/wiki/Kody")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if bds == "no":
         print()
         print("\033[34m" "Is the Villager you're looking for named Poncho?"
@@ -1223,7 +1222,7 @@ if species == "cub":
           print("https://animalcrossing.fandom.com/wiki/Poncho")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # CUB - BROWN
   if cubColor == "brown":
     print()
@@ -1239,7 +1238,7 @@ if species == "cub":
           print("https://animalcrossing.fandom.com/wiki/June")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if ce == "no":
         print()
         print("\033[33m" "Is the Villager you're looking for named Maple?"
@@ -1251,7 +1250,7 @@ if species == "cub":
           print("https://animalcrossing.fandom.com/wiki/Maple")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # CUB - WHITE
   if cubColor == "white":
     print()
@@ -1268,7 +1267,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Chester")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if cubGender == "girl":
       print()
       print("\033[37m" "Is the Villager you're looking for named Pekoe?"
@@ -1280,7 +1279,7 @@ if species == "cub":
         print("https://animalcrossing.fandom.com/wiki/Pekoe")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 
 # CHICKEN 
 if species == "chicken":
@@ -1297,7 +1296,7 @@ if species == "chicken":
         print("https://animalcrossing.fandom.com/wiki/Plucky")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CHICKEN - BLUE
    if chickenColor == "blue":
     print()
@@ -1310,7 +1309,7 @@ if species == "chicken":
         print("https://animalcrossing.fandom.com/wiki/Ken")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CHICKEN - YELLOW
    if chickenColor == "yellow":
     print()
@@ -1323,7 +1322,7 @@ if species == "chicken":
         print("https://animalcrossing.fandom.com/wiki/Egbert")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CHICKEN - ORANGE
    if chickenColor == "orange":
     print()
@@ -1336,7 +1335,7 @@ if species == "chicken":
         print("https://animalcrossing.fandom.com/wiki/Broffina")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CHICKEN - RED
    if chickenColor == "red":
     print()
@@ -1349,7 +1348,7 @@ if species == "chicken":
         print("https://animalcrossing.fandom.com/wiki/Benedict")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CHICKEN - PURPLE
    if chickenColor == "purple":
     print()
@@ -1362,7 +1361,7 @@ if species == "chicken":
         print("https://animalcrossing.fandom.com/wiki/Becky")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # CHICKEN - WHITE
    if chickenColor == "white":
     print()
@@ -1379,7 +1378,7 @@ if species == "chicken":
         print("https://animalcrossing.fandom.com/wiki/Ava")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if chickenGender == "boy":
       print()
       hc = input("Does this Villager wear a helmet? ").lower()
@@ -1394,7 +1393,7 @@ if species == "chicken":
           print("https://animalcrossing.fandom.com/wiki/Knox")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if hc == "no":
         print()
         print("\033[37m" "Is the Villager you're looking for named Goose?"
@@ -1406,7 +1405,7 @@ if species == "chicken":
           print("https://animalcrossing.fandom.com/wiki/Goose")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 
 # COW
 if species == "cow":
@@ -1423,7 +1422,7 @@ if species == "cow":
         print("https://animalcrossing.fandom.com/wiki/Tipper")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # COW - BLUE
   if cowColor == "blue":
     print()
@@ -1436,7 +1435,7 @@ if species == "cow":
         print("https://animalcrossing.fandom.com/wiki/Naomi")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # COW - PINK
   if cowColor == "pink":
     print()
@@ -1449,7 +1448,7 @@ if species == "cow":
         print("https://animalcrossing.fandom.com/wiki/Norma")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # COW - BROWN
   if cowColor == "brown":
     print()
@@ -1462,7 +1461,7 @@ if species == "cow":
         print("https://animalcrossing.fandom.com/wiki/Patty")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 
 # Eagle
 if species == "eagle":
@@ -1479,7 +1478,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Amelia")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # EAGLE - PURPLE
   if eagleColor == "purple":
     print()
@@ -1492,7 +1491,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Quinn")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # EAGLE - GRAY
   if eagleColor == "gray":
     print()
@@ -1505,7 +1504,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Avery")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # EAGLE - BROWN
   if eagleColor == "brown":
     print()
@@ -1518,7 +1517,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Buzz")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # EAGLE - GREEN
   if eagleColor == "green":
     print()
@@ -1531,7 +1530,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Frank")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # EAGLE - YELLOW
   if eagleColor == "yellow":
     print()
@@ -1544,7 +1543,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Keaton")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # EAGLE - WHITe
   if eagleColor == "white":
     print()
@@ -1561,7 +1560,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Celia")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if eagleGender == "boy":
       print()
       print("\033[37m" "Is the Villager you're looking for named Apollo?"
@@ -1573,7 +1572,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Apollo")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # EAGLE - BLUE
   if eagleColor == "blue":
     print()
@@ -1589,7 +1588,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Pierce")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if sob == "no":
       print()
       print("\033[34m" "Is the Villager you're looking for named Sterling?"
@@ -1601,7 +1600,7 @@ if species == "eagle":
         print("https://animalcrossing.fandom.com/wiki/Sterling")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 
 # DOG 
 if species == "dog":
@@ -1618,7 +1617,7 @@ if species == "dog":
         print("https://animalcrossing.fandom.com/wiki/Cookie")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DOG - RED
   if dogColor == "red":
     print()
@@ -1631,7 +1630,7 @@ if species == "dog":
         print("https://animalcrossing.fandom.com/wiki/Cherry")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DOG - Orange
   if dogColor == "orange":
     print()
@@ -1644,7 +1643,7 @@ if species == "dog":
         print("https://animalcrossing.fandom.com/wiki/Biskit")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DOG - YELLOW
   if dogColor == "yellow":
     print()
@@ -1664,7 +1663,7 @@ if species == "dog":
           print("https://animalcrossing.fandom.com/wiki/Daisy")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if bte == "no":
         print()
         print("\033[33m" "Is the Villager you're looking for named Goldie?"
@@ -1676,7 +1675,7 @@ if species == "dog":
           print("https://animalcrossing.fandom.com/wiki/Goldie")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if dogGender == "boy":
       rl = input("Does this Villager have red lips? ").lower()
       if rl == "yes":
@@ -1689,7 +1688,7 @@ if species == "dog":
           print("https://animalcrossing.fandom.com/wiki/Benjamin")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if rl == "no":
         print()
         print("\033[33m" "Is the Villager you're looking for named Frett?"
@@ -1701,7 +1700,7 @@ if species == "dog":
           print("https://animalcrossing.fandom.com/wiki/Frett")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # DOG - WHITE
   if dogColor == "white":
     print()
@@ -1718,7 +1717,7 @@ if species == "dog":
           print("https://animalcrossing.fandom.com/wiki/Portia")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if dogGender == "boy":
       print()
       ge = input("Does this Villager have one glowing yellow eye? ").lower()
@@ -1733,7 +1732,7 @@ if species == "dog":
           print("https://animalcrossing.fandom.com/wiki/Lucky")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if ge == "no":
         print()
         ghd = input("Does this Villager have a green scalp? ").lower()
@@ -1748,7 +1747,7 @@ if species == "dog":
             print("https://animalcrossing.fandom.com/wiki/Marcel")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if ghd == "no":
           print()
           bs = input("Does this Villager have a brown spot over its eye? ").lower()
@@ -1763,7 +1762,7 @@ if species == "dog":
               print("https://animalcrossing.fandom.com/wiki/Bones")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
           if bs == "no":
             print()
             print("\033[37m" "Is the Villager you're looking for named Walker?"
@@ -1775,7 +1774,7 @@ if species == "dog":
               print("https://animalcrossing.fandom.com/wiki/Walker")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
 # DOG - BROWN
   if dogColor == "brown":
     print()
@@ -1795,7 +1794,7 @@ if species == "dog":
               print("https://animalcrossing.fandom.com/wiki/Bea")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
       if df == "no":
             print()
             print("\033[33m" "Is the Villager you're looking for named Maddie?"
@@ -1807,7 +1806,7 @@ if species == "dog":
               print("https://animalcrossing.fandom.com/wiki/Maddie")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
     if dogGender == "boy":
       print()
       sd = input("Does this Villager have hair covering its face? ").lower()
@@ -1822,7 +1821,7 @@ if species == "dog":
               print("https://animalcrossing.fandom.com/wiki/Shep")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
       if sd == "no":
         print()
         rd = input("Does this Villager look like a rottweiler? ").lower()
@@ -1837,7 +1836,7 @@ if species == "dog":
               print("https://animalcrossing.fandom.com/wiki/Butch")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
         if rd == "no":
             print()
             print("\033[33m" "Is the Villager you're looking for named Mac?"
@@ -1849,9 +1848,8 @@ if species == "dog":
               print("https://animalcrossing.fandom.com/wiki/Mac")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
 
-        
 # DUCK
 if species == "duck":
   duckColor = input("What is the main color of this Villager? ").lower()
@@ -1871,7 +1869,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Ketchup")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if duckGender == "boy":
       print()
       print("\033[31m" "Is the Villager you're looking for named Bill?"
@@ -1883,7 +1881,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Bill")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DUCK - PINK
   if duckColor == "pink":
     we = input("Are the eyes of this Villager set wide apart? ").lower()
@@ -1898,7 +1896,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Freckles")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if we == "no":
       print()
       print("\033[31m" "Is the Villager you're looking for named Miranda?"
@@ -1910,7 +1908,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Miranda")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DUCK - WHITE
   if duckColor == "white":
     dhc = input("Does this Vilager have purple hair? ").lower()
@@ -1925,7 +1923,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Gloria")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if dhc == "no":
       print()
       print("\033[37m" "Is the Villager you're looking for named Pompom?"
@@ -1937,7 +1935,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Pompom")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DUCK - BLUE 
   if duckColor == "blue":
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -1953,7 +1951,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Pate")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if duckGender == "boy":
       print("\033[34m" "Is the Villager you're looking for named Derwin?"
             "\033[0m")
@@ -1964,7 +1962,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Derwin")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DUCK - YELLOW
   if duckColor == "yellow":
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -1980,7 +1978,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Maelle")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if duckGender == "boy":
       print()
       print("\033[33m" "Is the Villager you're looking for named Joey?"
@@ -1992,7 +1990,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Joey")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DUCK - PURPLE 
   if duckColor == "purple":
       print("\033[32m" "Is the Villager you're looking for named Mallary?"
@@ -2004,7 +2002,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Mallary")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DUCK - BROWN
   if duckColor == "brown":
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -2020,7 +2018,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Molly")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if duckGender == "boy":
       print()
       print("\033[33m" "Is the Villager you're looking for named Weber?"
@@ -2032,7 +2030,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Weber")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # DUCK - GREEN
   if duckColor == "green":
     duckGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -2048,7 +2046,7 @@ if species == "duck":
         print("https://animalcrossing.fandom.com/wiki/Deena")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if duckGender == "boy":
        print()
        dbh = input("Does this Villager have blonde hair? ").lower()
@@ -2063,7 +2061,7 @@ if species == "duck":
           print("https://animalcrossing.fandom.com/wiki/Quillson")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
        if dbh == "no":
          print()
          db = input("Does this Villager have bandages on its head? ").lower()
@@ -2078,7 +2076,7 @@ if species == "duck":
               print("https://animalcrossing.fandom.com/wiki/Scoot")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
          if db == "no":
             print()
             print("\033[32m" "Is the Villager you're looking for named Drake?"
@@ -2090,7 +2088,7 @@ if species == "duck":
               print("https://animalcrossing.fandom.com/wiki/Drake")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
 
 # DEER
 if species == "deer":
@@ -2111,7 +2109,7 @@ if species == "deer":
         print("https://animalcrossing.fandom.com/wiki/Zell")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if deerGender == "girl":
        print()
        dgh = input("Does this Villager have horns? ").lower()
@@ -2126,7 +2124,7 @@ if species == "deer":
           print("https://animalcrossing.fandom.com/wiki/Shino")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
        if dgh == "no":
           print()
           dhc = input("Does this Villager have green hair? ").lower()
@@ -2141,7 +2139,7 @@ if species == "deer":
               print("https://animalcrossing.fandom.com/wiki/Chelsea")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
           if dhc == "no":
             print()
             print("\033[37m" "Is the Villager you're looking for named Diana?"
@@ -2153,7 +2151,7 @@ if species == "deer":
               print("https://animalcrossing.fandom.com/wiki/Diana")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
 # DEER - BLUE
   if deerColor == "blue":
    print()
@@ -2169,7 +2167,7 @@ if species == "deer":
      print("https://animalcrossing.fandom.com/wiki/Bam")
     if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
    if fop == "lines":
     print()
     print("\033[34m" "Is the Villager you're looking for named Bruce?"
@@ -2181,7 +2179,7 @@ if species == "deer":
      print("https://animalcrossing.fandom.com/wiki/Bruce")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # DEER - PINK
   if deerColor == "pink":
     print()
@@ -2194,7 +2192,7 @@ if species == "deer":
      print("https://animalcrossing.fandom.com/wiki/Fuchsia")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # DEER - ORANGE
   if deerColor == "orange":
     print()
@@ -2207,7 +2205,7 @@ if species == "deer":
      print("https://animalcrossing.fandom.com/wiki/Lopez")
     if yn == "no":
       print()
-      print("Sounds like a you problem.")
+      print("Refresh the page and rethink your answers.")
 # DEER - BROWN
   if deerColor == "brown":
      print()
@@ -2226,7 +2224,7 @@ if species == "deer":
             print("https://animalcrossing.fandom.com/wiki/Beau")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if hoa == "antlers":
           print()
           print("\033[33m" "Is the Villager you're looking for named Erik?"
@@ -2238,7 +2236,7 @@ if species == "deer":
             print("https://animalcrossing.fandom.com/wiki/Erik")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
      if deerGender == "girl":
         print()
         dls = input("Does this Villager have lipstick on? ").lower()
@@ -2253,7 +2251,7 @@ if species == "deer":
             print("https://animalcrossing.fandom.com/wiki/Fauna")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if dls == "yes":
           print()
           print("\033[33m" "Is the Villager you're looking for named Deirdre?"
@@ -2265,7 +2263,7 @@ if species == "deer":
             print("https://animalcrossing.fandom.com/wiki/Deirdre")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 
 #Elephant
 if species == "elephant":
@@ -2282,7 +2280,7 @@ if species == "elephant":
         print("https://animalcrossing.fandom.com/wiki/Opal")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # Elephant - YELLOW
   if elephantColor == "yellow":
       print()
@@ -2295,7 +2293,7 @@ if species == "elephant":
         print("https://animalcrossing.fandom.com/wiki/Eloise")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # Elephant - RED
   if elephantColor == "red":
       print()
@@ -2308,7 +2306,7 @@ if species == "elephant":
         print("https://animalcrossing.fandom.com/wiki/Cyd")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # Elephant - PINK
   if elephantColor == "pink":
       print()
@@ -2321,7 +2319,7 @@ if species == "elephant":
         print("https://animalcrossing.fandom.com/wiki/Paolo")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
  # Elephant - GRAY       
   if elephantColor == "gray":
       print()
@@ -2334,7 +2332,7 @@ if species == "elephant":
         print("https://animalcrossing.fandom.com/wiki/Big_Top")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # ELEPHANT - BROWN
   if elephantColor == "brown":
       print()
@@ -2351,7 +2349,7 @@ if species == "elephant":
           print("https://animalcrossing.fandom.com/wiki/Tucker")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if elephantGender == "girl":
         print()
         print("\033[33m" "Is the Villager you're looking for named Ellie ?"
@@ -2363,7 +2361,7 @@ if species == "elephant":
           print("https://animalcrossing.fandom.com/wiki/Ellie")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # ELEPHANT - BLUE
   if elephantColor == "blue":
     print()
@@ -2380,7 +2378,7 @@ if species == "elephant":
           print("https://animalcrossing.fandom.com/wiki/Chai")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if elephantGender == "boy":
       print()
       elephantDOL = input("Is this Villager a lighter or darker blue? ").lower()
@@ -2395,7 +2393,7 @@ if species == "elephant":
           print("https://animalcrossing.fandom.com/wiki/Axel")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if elephantDOL == "lighter":
         print("\033[34m" "Is the Villager you're looking for named Dizzy?"
             "\033[0m")
@@ -2406,7 +2404,7 @@ if species == "elephant":
           print("https://animalcrossing.fandom.com/wiki/Dizzy")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # ELEPHANT - WHITE
   if elephantColor == "white":
     print()
@@ -2422,7 +2420,7 @@ if species == "elephant":
         print("https://animalcrossing.fandom.com/wiki/Tia")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if elephantStripe == "yes":
       print()
       print("\033[37m" "Is the Villager you're looking for named Margie?"
@@ -2434,7 +2432,7 @@ if species == "elephant":
         print("https://animalcrossing.fandom.com/wiki/Margie")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 
 # FROG
 if species == "frog":
@@ -2451,7 +2449,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Drift")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # FROG - PINK
    if frogColor == "pink":
     print()
@@ -2464,7 +2462,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Puddles")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # FROG - GRAY
    if frogColor == "gray":
     print()
@@ -2480,7 +2478,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Huck")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")   
+        print("Refresh the page and rethink your answers.")
     if rf == "yes":
       print()
       print("\033[37m" "Is the Villager you're looking for named Ribbot?"
@@ -2492,7 +2490,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Ribbot")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")  
+        print("Refresh the page and rethink your answers.")
 # FROG - BLUE
    if frogColor == "blue":
     print()
@@ -2505,7 +2503,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Jeremiah")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")   
+        print("Refresh the page and rethink your answers.")
 # FROG - yellow
    if frogColor == "yellow":
     print()
@@ -2518,7 +2516,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Consteau")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # FROG - orange
    if frogColor == "orange":
     print()
@@ -2534,7 +2532,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Croque")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")   
+        print("Refresh the page and rethink your answers.")
     if fm == "no":
       print()
       print("\033[33m" "Is the Villager you're looking for named Walt Jr.?"
@@ -2546,7 +2544,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Wart_Jr.")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")  
+        print("Refresh the page and rethink your answers.")
 # FROG - brown
    if frogColor == "brown":
       print()
@@ -2559,7 +2557,7 @@ if species == "frog":
         print("https://animalcrossing.fandom.com/wiki/Raddle")
       if yn == "no":
         print()
-        print("Sounds like a you problem.") 
+        print("Refresh the page and rethink your answers.")
 # FROG - GREEN
    if frogColor == "green":
     print()
@@ -2579,7 +2577,7 @@ if species == "frog":
           print("https://animalcrossing.fandom.com/wiki/Lily")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if fls == "yes":
         print()
         print("\033[32m" "Is the Villager you're looking for named Jambette?"
@@ -2591,7 +2589,7 @@ if species == "frog":
           print("https://animalcrossing.fandom.com/wiki/Jambette")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if frogGender == "boy":
       print()
       fc = input("Is there camo on this Villager? ").lower()
@@ -2606,7 +2604,7 @@ if species == "frog":
           print("https://animalcrossing.fandom.com/wiki/Camofrog")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if fc == "no":
         print()
         yf = input("Does this Villager have yellow on it's face? ").lower()
@@ -2620,7 +2618,7 @@ if species == "frog":
             print("https://animalcrossing.fandom.com/wiki/Henry")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if yf == "no":
           print()
           fs = input("Does this Villager have black spots on it's face? ").lower()
@@ -2635,7 +2633,7 @@ if species == "frog":
               print("https://animalcrossing.fandom.com/wiki/Frobert")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
           if fs == "no":
            print()
            fsg = input("Is this Villager just green? ").lower()
@@ -2650,7 +2648,7 @@ if species == "frog":
               print("https://animalcrossing.fandom.com/wiki/Prince")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
            if fsg == "yes":
             print()
             print("\033[32m" "Is the Villager you're looking for named Tad?"
@@ -2662,7 +2660,7 @@ if species == "frog":
               print("https://animalcrossing.fandom.com/wiki/Tad")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
 # FROG - PURPLE
    if frogColor == "purple":
      print()
@@ -2678,7 +2676,7 @@ if species == "frog":
               print("https://animalcrossing.fandom.com/wiki/Diva")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
      if sb == "no":
             print()
             print("\033[37m" "Is the Villager you're looking for named Gigi?"
@@ -2690,8 +2688,7 @@ if species == "frog":
               print("https://animalcrossing.fandom.com/wiki/Gigi")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
-
+              print("Refresh the page and rethink your answers.")
 
 # GOAT
 if species == "goat":
@@ -2708,7 +2705,7 @@ if species == "goat":
         print("https://animalcrossing.fandom.com/wiki/Velma")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GOAT - BLUE
   if goatColor == "blue":
     print()
@@ -2721,7 +2718,7 @@ if species == "goat":
         print("https://animalcrossing.fandom.com/wiki/Sherb")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GOAT - WHITE
   if goatColor == "white":
     print()
@@ -2734,7 +2731,7 @@ if species == "goat":
         print("https://animalcrossing.fandom.com/wiki/Chevre")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GOAT - GREEN
   if goatColor == "green":
     print()
@@ -2747,7 +2744,7 @@ if species == "goat":
         print("https://animalcrossing.fandom.com/wiki/Gruff")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GOAT - PURPLE
   if goatColor == "purple":
     print()
@@ -2760,7 +2757,7 @@ if species == "goat":
         print("https://animalcrossing.fandom.com/wiki/Kidd")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GOAT - BLACK
   if goatColor == "black":
     print()
@@ -2773,7 +2770,7 @@ if species == "goat":
         print("https://animalcrossing.fandom.com/wiki/Nan")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GOAT - BROWN
   if goatColor == "brown":
       print()
@@ -2790,7 +2787,7 @@ if species == "goat":
             print("https://animalcrossing.fandom.com/wiki/Billy")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
       if goatColor == "girl":
           print()
           print("\033[33m" "Is the Villager you're looking for named Pashmina?"
@@ -2802,7 +2799,7 @@ if species == "goat":
             print("https://animalcrossing.fandom.com/wiki/Pashmina")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 
 # GORILLA
 if species == "gorilla":
@@ -2819,7 +2816,7 @@ if species == "gorilla":
         print("https://animalcrossing.fandom.com/wiki/Cesar")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GORILLA - GREEN
   if gorillaColor == "green":
     print()
@@ -2832,7 +2829,7 @@ if species == "gorilla":
         print("https://animalcrossing.fandom.com/wiki/Al")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GORILLA - PINK
   if gorillaColor == "pink":
     print()
@@ -2845,7 +2842,7 @@ if species == "gorilla":
         print("https://animalcrossing.fandom.com/wiki/Rilla")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GORILLA - BLUE
   if gorillaColor == "blue":
     print()
@@ -2861,7 +2858,7 @@ if species == "gorilla":
         print("https://animalcrossing.fandom.com/wiki/Hans")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if teg == "no":
       print()
       print("\033[34m" "Is the Villager you're looking for named Peewee?"
@@ -2873,7 +2870,7 @@ if species == "gorilla":
         print("https://animalcrossing.fandom.com/wiki/Peewee")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # GORILLA - BROWN
   if gorillaColor == "brown":
     print()
@@ -2893,7 +2890,7 @@ if species == "gorilla":
           print("https://animalcrossing.fandom.com/wiki/Rocket")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if pop == "purple":
         print()
         print("\033[35m" "Is the Villager you're looking for named Violet?"
@@ -2905,7 +2902,7 @@ if species == "gorilla":
           print("https://animalcrossing.fandom.com/wiki/Violet")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if gorillaGender == "boy":
       print()
       mm = input("Does this Villager look like a Mandrill monkey? ").lower()
@@ -2920,7 +2917,7 @@ if species == "gorilla":
           print("https://animalcrossing.fandom.com/wiki/Boone")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if mm == "no":
         print()
         rrs = input("Does this Villager have red appearing fur? ").lower()
@@ -2935,7 +2932,7 @@ if species == "gorilla":
             print("https://animalcrossing.fandom.com/wiki/Boyd")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if rrs == "no":
           print()
           print("\033[33m" "Is the Villager you're looking for named Louie?"
@@ -2947,8 +2944,7 @@ if species == "gorilla":
             print("https://animalcrossing.fandom.com/wiki/Louie")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
-
+            print("Refresh the page and rethink your answers.")
 
 # HAMSTER
 if species == "hamster":
@@ -2965,7 +2961,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Apple")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HAMSTER - WHITE
   if hamsterColor == "white":
     print("\033[37m" "Is the Villager you're looking for named Flurry?"
@@ -2977,7 +2973,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Flurry")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HAMSTER - BROWN
   if hamsterColor == "brown":
     pfh = input("Does this Villager have patterns all over its face? ").lower()
@@ -2992,7 +2988,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Clay")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if pfh == "no":
       print()
       print("\033[33m" "Is the Villager you're looking for named Hamlet?"
@@ -3004,7 +3000,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Hamlet")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HAMSTER - ORANGE
   if hamsterColor == "orange":
     print("\033[33m" "Is the Villager you're looking for named Soleil?"
@@ -3016,7 +3012,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Soleil")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HAMSTER - BLUE
   if hamsterColor == "blue":
     print("\033[34m" "Is the Villager you're looking for named Rodney?" "\033[0m")
@@ -3027,7 +3023,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Rodney")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HAMSTER - BLACK
   if hamsterColor == "black":
     hs = input("Does this Villager look sad? ").lower()
@@ -3042,7 +3038,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Hamphrey")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if hs == "yes":
       print()
       print("\033[30m" "Is the Villager you're looking for named Marlo?"
@@ -3054,7 +3050,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Marlo")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HAMSTER - YELLOW
   if hamsterColor == "yellow":
       print("\033[33m" "Is the Villager you're looking for named Graham?"
@@ -3066,7 +3062,7 @@ if species == "hamster":
         print("https://animalcrossing.fandom.com/wiki/Graham")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 
 # HIPPO
 if species == "hippo":
@@ -3083,7 +3079,7 @@ if species == "hippo":
         print("https://animalcrossing.fandom.com/wiki/Bertha")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HIPPO - PINK
   if hippoColor == "pink":
     print()
@@ -3096,7 +3092,7 @@ if species == "hippo":
         print("https://animalcrossing.fandom.com/wiki/Bitty")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HIPPO - YELLOW
   if hippoColor == "yellow":
     print()
@@ -3109,7 +3105,7 @@ if species == "hippo":
         print("https://animalcrossing.fandom.com/wiki/Harry")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HIPPO - BROWN
   if hippoColor == "brown":
     print()
@@ -3126,7 +3122,7 @@ if species == "hippo":
             print("https://animalcrossing.fandom.com/wiki/Biff")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
     if hippoGender == "girl":
           print()
           print("\033[33m" "Is the Villager you're looking for named Bubbles?"
@@ -3138,7 +3134,7 @@ if species == "hippo":
             print("https://animalcrossing.fandom.com/wiki/Bubbles")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # HIPPO - GREEN
   if hippoColor == "green":
      print()
@@ -3154,7 +3150,7 @@ if species == "hippo":
             print("https://animalcrossing.fandom.com/wiki/Hippeux")
         if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
      if hippoHair == "no":
         print()
         print("\033[32m" "Is the Villager you're looking for named Rocco?"
@@ -3166,7 +3162,7 @@ if species == "hippo":
             print("https://animalcrossing.fandom.com/wiki/Rocco")
         if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 
 # HORSE
 if species == "horse":
@@ -3183,7 +3179,7 @@ if species == "horse":
         print("https://animalcrossing.fandom.com/wiki/Peaches")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HORSE - BLACK
   if horseColor == "black":
     print()
@@ -3196,7 +3192,7 @@ if species == "horse":
         print("https://animalcrossing.fandom.com/wiki/Roscoe")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HORSE - PURPLE
   if horseColor == "purple":
     print()
@@ -3209,7 +3205,7 @@ if species == "horse":
         print("https://animalcrossing.fandom.com/wiki/Cleo")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HORSE - GREEN
   if horseColor == "green":
     print()
@@ -3226,7 +3222,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Buck")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
     if horseGender == "girl":
           print()
           print("\033[32m" "Is the Villager you're looking for named Winnie?"
@@ -3238,7 +3234,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Winnie")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # HORSE - YELLOW
   if horseColor == "yellow":
     print()
@@ -3251,7 +3247,7 @@ if species == "horse":
         print("https://animalcrossing.fandom.com/wiki/Clyde")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # HORSE - WHITE
   if horseColor == "white":
     print()
@@ -3271,7 +3267,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Colton")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if horseBangs == "no":
           print()
           print("\033[37m" "Is the Villager you're looking for named Papi?"
@@ -3283,7 +3279,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Papi")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
     if horseGender == "girl":
         print()
         print("\033[37m" "Is the Villager you're looking for named Savannah?"
@@ -3295,7 +3291,7 @@ if species == "horse":
           print("https://animalcrossing.fandom.com/wiki/Savannah")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # HORSE - BROWN
   if horseColor == "brown":
     print()
@@ -3312,7 +3308,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Elmer")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
     if horseGender == "girl":
       print()
       phh = input("Does this Villager have pink hair? ").lower()
@@ -3327,7 +3323,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Annalise")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
       if phh == "no":
         print()
         girlHorseColor = input("Is this Villager a lighter or darker brown? ").lower()
@@ -3342,7 +3338,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Victoria")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if girlHorseColor == "darker":
           print()
           print("\033[33m" "Is the Villager you're looking for named Reneigh?"
@@ -3354,7 +3350,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Reneigh")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # HORSE - BLUE 
   if horseColor == "blue":
      print()
@@ -3370,7 +3366,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Ed")
         if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
      if horseHair == "no":
         print()
         print("\033[34m" "Is the Villager you're looking for named Julian?"
@@ -3382,7 +3378,7 @@ if species == "horse":
             print("https://animalcrossing.fandom.com/wiki/Julian")
         if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 
 # Kangaroo
 if species == "kangaroo":
@@ -3399,7 +3395,7 @@ if species == "kangaroo":
         print("https://animalcrossing.fandom.com/wiki/Astrid")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KANGAROO - PINK
   if kangarooColor == "pink":
     print()
@@ -3412,7 +3408,7 @@ if species == "kangaroo":
         print("https://animalcrossing.fandom.com/wiki/Marcie")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KANGAROO - BLACK
   if kangarooColor == "black":
     print()
@@ -3425,7 +3421,7 @@ if species == "kangaroo":
         print("https://animalcrossing.fandom.com/wiki/Mathilda")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KANGAROO - BLUE
   if kangarooColor == "blue":
     print()
@@ -3438,7 +3434,7 @@ if species == "kangaroo":
         print("https://animalcrossing.fandom.com/wiki/Rooney")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KANGAROO - PURPLE
   if kangarooColor == "purple":
     print()
@@ -3451,7 +3447,7 @@ if species == "kangaroo":
         print("https://animalcrossing.fandom.com/wiki/Sylvia")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KANGAROO - GRAY
   if kangarooColor == "gray":
     print()
@@ -3464,7 +3460,7 @@ if species == "kangaroo":
         print("https://animalcrossing.fandom.com/wiki/Walt")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KANGAROO - BROWN
   if kangarooColor == "brown":
     print()
@@ -3477,7 +3473,7 @@ if species == "kangaroo":
         print("https://animalcrossing.fandom.com/wiki/Kitt")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KANGAROO - ORANGE
   if kangarooColor == "orange":
     print()
@@ -3490,7 +3486,7 @@ if species == "kangaroo":
         print("https://animalcrossing.fandom.com/wiki/Carrie")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 
 # Koala
 if species == "koala":
@@ -3507,7 +3503,7 @@ if species == "koala":
         print("https://animalcrossing.fandom.com/wiki/Yuka")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KOALA - PURPLE
   if koalaColor == "purple":
       print()
@@ -3520,7 +3516,7 @@ if species == "koala":
         print("https://animalcrossing.fandom.com/wiki/Sydney")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KOALA - GREEN
   if koalaColor == "green":
       print()
@@ -3533,7 +3529,7 @@ if species == "koala":
         print("https://animalcrossing.fandom.com/wiki/Lyman")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KOALA - GRAY
   if koalaColor == "gray":
       print()
@@ -3546,7 +3542,7 @@ if species == "koala":
         print("https://animalcrossing.fandom.com/wiki/Gonzo")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KOALA - white
   if koalaColor == "white":
       print()
@@ -3559,7 +3555,7 @@ if species == "koala":
         print("https://animalcrossing.fandom.com/wiki/Eugene")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # KOALA - ORANGE
   if koalaColor == "orange":
         print()
@@ -3572,7 +3568,7 @@ if species == "koala":
           print("https://animalcrossing.fandom.com/wiki/Canberra")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # KOALA - YELLOW
   if koalaColor == "yellow":
         print()
@@ -3585,7 +3581,7 @@ if species == "koala":
           print("https://animalcrossing.fandom.com/wiki/Alice")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # KOALA - BROWN
   if koalaColor == "brown":
     print()
@@ -3602,7 +3598,7 @@ if species == "koala":
           print("https://animalcrossing.fandom.com/wiki/Ozzie")
       if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if koalaGender == "girl":
       print()
       kc = input("Is there orange on this Villager? ").lower()
@@ -3617,7 +3613,7 @@ if species == "koala":
           print("https://animalcrossing.fandom.com/wiki/Faith")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if kc == "no":
         print()
         print("\033[33m" "Is the Villager you're looking for named Melba?"
@@ -3629,8 +3625,7 @@ if species == "koala":
           print("https://animalcrossing.fandom.com/wiki/Melba")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
-
+          print("Refresh the page and rethink your answers.")
 
 # LION
 if species == "lion":
@@ -3650,7 +3645,7 @@ if species == "lion":
         print("https://animalcrossing.fandom.com/wiki/Mott")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if ls == "yes":
       print()
       print("\033[33m" "Is the Villager you're looking for named Elvis?"
@@ -3662,7 +3657,7 @@ if species == "lion":
         print("https://animalcrossing.fandom.com/wiki/Elvis")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # LION - orange
   if lionColor == "orange":
     print()
@@ -3678,7 +3673,7 @@ if species == "lion":
         print("https://animalcrossing.fandom.com/wiki/Rex")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if lm == "no":
       print()
       print("\033[33m" "Is the Villager you're looking for named Rory?"
@@ -3690,7 +3685,7 @@ if species == "lion":
         print("https://animalcrossing.fandom.com/wiki/Rory")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # LION  BROWN
   if lionColor == "brown":
     print()
@@ -3706,7 +3701,7 @@ if species == "lion":
         print("https://animalcrossing.fandom.com/wiki/Leopold")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if lm == "no":
       lmt = input("Is the mane of this Villager golden? ").lower()
       if lmt == "no":
@@ -3720,7 +3715,7 @@ if species == "lion":
           print("https://animalcrossing.fandom.com/wiki/Lionel")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if lmt == "yes":
         print()
         print("\033[33m" "Is the Villager you're looking for named Bud?"
@@ -3732,7 +3727,7 @@ if species == "lion":
           print("https://animalcrossing.fandom.com/wiki/Bud")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 
 # MONKEY
 if species == "monkey":
@@ -3749,7 +3744,7 @@ if species == "monkey":
         print("https://animalcrossing.fandom.com/wiki/Nana")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 #MONKEY - YELLOW
      if monkeyColor == "yellow":
       print()
@@ -3762,7 +3757,7 @@ if species == "monkey":
         print("https://animalcrossing.fandom.com/wiki/Tammi")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")       
+        print("Refresh the page and rethink your answers.")
 #MONKEY - orange
      if monkeyColor == "orange":
       print()
@@ -3775,7 +3770,7 @@ if species == "monkey":
         print("https://animalcrossing.fandom.com/wiki/Tiansheng")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")  
+        print("Refresh the page and rethink your answers.")
 #MONKEY - GRAY
      if monkeyColor == "gray":
        print()
@@ -3792,7 +3787,7 @@ if species == "monkey":
           print("https://animalcrossing.fandom.com/wiki/Monty")
         if yn == "no":
           print()
-          print("Sounds like a you problem.") 
+          print("Refresh the page and rethink your answers.")
        if monkeyGender == "girl":
         print()
         print("\033[30m" "Is the Villager you're looking for named Shari?"
@@ -3804,7 +3799,7 @@ if species == "monkey":
           print("https://animalcrossing.fandom.com/wiki/Shari")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # MONKEY - BROWN
      if monkeyColor == "brown":
        print()
@@ -3821,7 +3816,7 @@ if species == "monkey":
           print("https://animalcrossing.fandom.com/wiki/Elise")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
        if monkeyGender == "boy":
         print()
         mrf = input("Does this Villager have red on it's face? ").lower()
@@ -3836,7 +3831,7 @@ if species == "monkey":
               print("https://animalcrossing.fandom.com/wiki/Simon")
            if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
         if mrf == "no":
           print()
           mwf = input("Does this Villager have white fur? ").lower()
@@ -3851,7 +3846,7 @@ if species == "monkey":
               print("https://animalcrossing.fandom.com/wiki/Deli")
            if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
           if mwf == "no":
            print()
            print("\033[33m" "Is the Villager you're looking for named Flip?"
@@ -3863,7 +3858,7 @@ if species == "monkey":
               print("https://animalcrossing.fandom.com/wiki/Flip")
            if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
 
 # MOUSE
 if species == "mouse":
@@ -3880,7 +3875,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Rod")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # MOUSE - GRAY
   if mouseColor == "gray":
     mouseGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -3896,7 +3891,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Penelope")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if mouseGender == "boy":
       print()
       print("\033[30m" "Is the Villager you're looking for named Samson?"
@@ -3908,7 +3903,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Samson")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # MOUSE - YELLOW
   if mouseColor == "yellow":
     print()
@@ -3921,7 +3916,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Chadder")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # MOUSE - PINK
   if mouseColor == "pink":
     print()
@@ -3934,7 +3929,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Candi")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # MOUSE - ORANGE
   if mouseColor == "orange":
     print()
@@ -3951,7 +3946,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Bettina")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if mouseGender == "boy":
       print()
       print("\033[33m" "Is the Villager you're looking for named Limberg?"
@@ -3963,7 +3958,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Limberg")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # MOUSE - GREEN
   if mouseColor == "green":
     print()
@@ -3976,7 +3971,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Anicotti")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # MOUSE - WHITE
   if mouseColor == "white":
     print()
@@ -3992,7 +3987,7 @@ if species == "mouse":
         print("https://animalcrossing.fandom.com/wiki/Petri")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if rabi == "no":
       print()
       bi = input("Are the insides of this Villagers ears blue? ").lower()
@@ -4007,7 +4002,7 @@ if species == "mouse":
           print("https://animalcrossing.fandom.com/wiki/Dora")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if bi == "no":
         print()
         ghm = input("Does this Villager have green hair? ").lower()
@@ -4022,7 +4017,7 @@ if species == "mouse":
             print("https://animalcrossing.fandom.com/wiki/Bree")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if ghm == "no":
           print("\033[37m" "Is the Villager you're looking for named Bella?"
             "\033[0m")
@@ -4033,7 +4028,7 @@ if species == "mouse":
             print("https://animalcrossing.fandom.com/wiki/Bella")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # MOUSE - BLUE
   if mouseColor == "blue":
     print()
@@ -4050,7 +4045,7 @@ if species == "mouse":
             print("https://animalcrossing.fandom.com/wiki/Greta")
       if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
     if mouseGender == "boy":
       print()
       mh = input("Does this Villager have purple hair? ").lower()
@@ -4065,7 +4060,7 @@ if species == "mouse":
             print("https://animalcrossing.fandom.com/wiki/Rizzo")
         if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
       if mh == "no":
         print()
         mb = input("Does this Villager have brown bangs? ").lower()
@@ -4080,7 +4075,7 @@ if species == "mouse":
             print("https://animalcrossing.fandom.com/wiki/Broccolo")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if mb == "no":
           print()
           print("\033[34m" "Is the Villager you're looking for named Moose?"
@@ -4092,8 +4087,7 @@ if species == "mouse":
             print("https://animalcrossing.fandom.com/wiki/Moose")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
-
+            print("Refresh the page and rethink your answers.")
 
 # OCTOPUS
 if species == "octopus":
@@ -4110,7 +4104,7 @@ if species == "octopus":
         print("https://animalcrossing.fandom.com/wiki/Cephalobot")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # OCTOPUS - PINK
   if octopusColor == "pink":
     print()
@@ -4123,7 +4117,7 @@ if species == "octopus":
         print("https://animalcrossing.fandom.com/wiki/Marina")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # OCTOPUS - RED
   if octopusColor == "red":
     print()
@@ -4136,7 +4130,7 @@ if species == "octopus":
         print("https://animalcrossing.fandom.com/wiki/Octavian")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # OCTOPUS - BROWN
   if octopusColor == "brown":
     print()
@@ -4149,7 +4143,7 @@ if species == "octopus":
         print("https://animalcrossing.fandom.com/wiki/Zucker")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 
 # Ostrich
 if species == "ostrich":
@@ -4166,7 +4160,7 @@ if species == "ostrich":
         print("https://animalcrossing.fandom.com/wiki/Rio")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # Ostrich - BLACK
   if ostrichColor == "black":
       print()
@@ -4179,7 +4173,7 @@ if species == "ostrich":
         print("https://animalcrossing.fandom.com/wiki/Gladys")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # Ostrich - PINK
   if ostrichColor == "pink":
       print()
@@ -4192,7 +4186,7 @@ if species == "ostrich":
         print("https://animalcrossing.fandom.com/wiki/Flora")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # Ostrich - PURPLE
   if ostrichColor == "purple":
       print()
@@ -4209,7 +4203,7 @@ if species == "ostrich":
           print("https://animalcrossing.fandom.com/wiki/Phil")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if ostrichGender == "girl":
         print()
         print("\033[35m" "Is the Villager you're looking for named Queenie?"
@@ -4221,7 +4215,7 @@ if species == "ostrich":
           print("https://animalcrossing.fandom.com/wiki/Queenie")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # Ostrich - WHITE
   if ostrichColor == "white":
     print()
@@ -4238,7 +4232,7 @@ if species == "ostrich":
           print("https://animalcrossing.fandom.com/wiki/Cranston")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if ostrichGender == "girl":
         print()
         print("\033[37m" "Is the Villager you're looking for named Blanche?"
@@ -4250,7 +4244,7 @@ if species == "ostrich":
           print("https://animalcrossing.fandom.com/wiki/Blanche")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # Ostrich - GREEN
   if ostrichColor == "green":
     print()
@@ -4266,7 +4260,7 @@ if species == "ostrich":
           print("https://animalcrossing.fandom.com/wiki/Sprocket")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if ostrichGender == "girl":
         print()
         print("\033[32m" "Is the Villager you're looking for named Julia?"
@@ -4278,7 +4272,7 @@ if species == "ostrich":
           print("https://animalcrossing.fandom.com/wiki/Julia")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # Ostrich - ORANGE
   if ostrichColor == "orange":
     print()
@@ -4294,7 +4288,7 @@ if species == "ostrich":
           print("https://animalcrossing.fandom.com/wiki/Sandy")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if ostrichVibe == "fierce":
         print()
         print("\033[33m" "Is the Villager you're looking for named Phoebe?"
@@ -4306,7 +4300,7 @@ if species == "ostrich":
           print("https://animalcrossing.fandom.com/wiki/Phoebe")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 
 # penguin
 if species == "penguin":
@@ -4323,7 +4317,7 @@ if species == "penguin":
           print("https://animalcrossing.fandom.com/wiki/Boomer")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PENGUIN - PINK
   if penguinColor == "pink":
         print()
@@ -4336,7 +4330,7 @@ if species == "penguin":
           print("https://animalcrossing.fandom.com/wiki/Puck")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PENGUIN - PURPLE
   if penguinColor == "purple":
      print()
@@ -4352,7 +4346,7 @@ if species == "penguin":
           print("https://animalcrossing.fandom.com/wiki/Flo")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
      if nom == "neat":
         print()
         print("\033[35m" "Is the Villager you're looking for named Gwen?"
@@ -4364,7 +4358,7 @@ if species == "penguin":
           print("https://animalcrossing.fandom.com/wiki/Gwen")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PENGUIN - BLACK
   if penguinColor == "black":
      print()
@@ -4380,7 +4374,7 @@ if species == "penguin":
           print("https://animalcrossing.fandom.com/wiki/Hopper")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
      if pew == "no":
         print()
         print("\033[30m" "Is the Villager you're looking for named Cube?"
@@ -4392,7 +4386,7 @@ if species == "penguin":
           print("https://animalcrossing.fandom.com/wiki/Cube")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PENGUIN - WHITE
   if penguinColor == "white":
      print()
@@ -4412,7 +4406,7 @@ if species == "penguin":
             print("https://animalcrossing.fandom.com/wiki/Aurora")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if pbob == "blue":
           print()
           print("\033[34m" "Is the Villager you're looking for named Sprinkle?"
@@ -4424,7 +4418,7 @@ if species == "penguin":
             print("https://animalcrossing.fandom.com/wiki/Sprinkle")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
      if penguinGender == "boy":
         print()
         bof = input("Does this Villager have a patch of faded black on it's face? ").lower()
@@ -4439,7 +4433,7 @@ if species == "penguin":
             print("https://animalcrossing.fandom.com/wiki/Wade")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if bof == "no":
           print()
           print("\033[37m" "Is the Villager you're looking for named Iggly?"
@@ -4451,7 +4445,7 @@ if species == "penguin":
             print("https://animalcrossing.fandom.com/wiki/Iggly")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # PENGUIN - BLUE
   if penguinColor == "blue":
     print()
@@ -4468,7 +4462,7 @@ if species == "penguin":
             print("https://animalcrossing.fandom.com/wiki/Friga")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
     if penguinGender == "boy":
        print()
        sep = input("Does this Villager have pink eyelids and looks tired? ").lower()
@@ -4483,7 +4477,7 @@ if species == "penguin":
             print("https://animalcrossing.fandom.com/wiki/Tex")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
        if sep == "no":
         bope = input("Does this Villager have big eyes? ").lower()
         if bope == "no":
@@ -4497,7 +4491,7 @@ if species == "penguin":
             print("https://animalcrossing.fandom.com/wiki/Chabwick")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if bope == "yes":
           print()
           print("\033[34m" "Is the Villager you're looking for named Roald?"
@@ -4509,11 +4503,8 @@ if species == "penguin":
             print("https://animalcrossing.fandom.com/wiki/Roald")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
-       
-       
-       
-
+            print("Refresh the page and rethink your answers.")
+      
 # PIG
 if species == "pig":
   pigColor = input("What is the main color of this Villager? ").lower()
@@ -4529,7 +4520,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Agnes")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PIG - GREEN
   if pigColor == "green":
         print()
@@ -4542,7 +4533,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Cobb")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PIG - RED
   if pigColor == "red":
         print()
@@ -4555,7 +4546,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Rasher")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PIG - ORANGE
   if pigColor == "orange":
      print()
@@ -4572,7 +4563,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Kevin")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
      if pigGender == "girl":
         print()
         pbh = input("Does this Villager have blonde hair? ").lower()
@@ -4587,7 +4578,7 @@ if species == "pig":
             print("https://animalcrossing.fandom.com/wiki/Maggie")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if pbh == "yes":
           print()
           print("\033[33m" "Is the Villager you're looking for named Pancetti?"
@@ -4599,7 +4590,7 @@ if species == "pig":
             print("https://animalcrossing.fandom.com/wiki/Pancetti")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 # PIG - PURPLE
   if pigColor == "purple":
         print()
@@ -4612,7 +4603,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Boris")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PIG - BLUE
   if pigColor == "blue":
         print()
@@ -4625,7 +4616,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Hugh")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PIG - BROWN
   if pigColor == "brown":
    print()
@@ -4642,7 +4633,7 @@ if species == "pig":
         print("https://animalcrossing.fandom.com/wiki/Peggy")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
    if pigGender == "boy":
       print()
       pigGrin = input("Does this Villager have a grin on their face? ").lower()
@@ -4657,7 +4648,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Spork")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if pigGrin == "no":
         print()
         print("\033[33m" "Is the Villager you're looking for named Chops?"
@@ -4669,7 +4660,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Chops")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PIG - WHITE
   if pigColor == "white":
         print()
@@ -4682,7 +4673,7 @@ if species == "pig":
           print("https://animalcrossing.fandom.com/wiki/Lucy")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # PIG - PINK
   if pigColor == "pink":
      print()
@@ -4699,7 +4690,7 @@ if species == "pig":
         print("https://animalcrossing.fandom.com/wiki/Curly")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
      if pigGender == "girl":
         print()
         bbc = input("Does this Villager have a brown bowl cut? ").lower()
@@ -4714,7 +4705,7 @@ if species == "pig":
             print("https://animalcrossing.fandom.com/wiki/Truffles")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if bbc == "no":
           print()
           print("\033[31m" "Is the Villager you're looking for named Gala?"
@@ -4726,8 +4717,7 @@ if species == "pig":
             print("https://animalcrossing.fandom.com/wiki/Gala")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
-
+            print("Refresh the page and rethink your answers.")
 
 # RABBIT
 if species == "rabbit":
@@ -4745,7 +4735,7 @@ if species == "rabbit":
         print("https://animalcrossing.fandom.com/wiki/Bunnie")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # RABBIT - GREEN
   if rabbitColor == "green":
     print("\033[32m" "Is the Villager you're looking for named Sasha?"
@@ -4757,7 +4747,7 @@ if species == "rabbit":
         print("https://animalcrossing.fandom.com/wiki/Sasha")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # RABBIT - WHITE
   if rabbitColor == "white":
     rabbitGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -4773,7 +4763,7 @@ if species == "rabbit":
           print("https://animalcrossing.fandom.com/wiki/Genji")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if rabbitGender == "girl":
       rer = input("Does this Villager have red eyes? ").lower()
       print()
@@ -4787,7 +4777,7 @@ if species == "rabbit":
           print("https://animalcrossing.fandom.com/wiki/Ruby")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if rer == "no":
         rwm = input("Does this Villager wear makeup? ").lower()
         print()
@@ -4801,7 +4791,7 @@ if species == "rabbit":
             print("https://animalcrossing.fandom.com/wiki/Tiffany")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if rwm == "no": 
           bhr = input("Does this Villager have brown hair? ").lower()
           print()
@@ -4815,7 +4805,7 @@ if species == "rabbit":
               print("https://animalcrossing.fandom.com/wiki/Gabi")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
           if bhr == "no":
            br = input("Does this Villager have black ears? ").lower()
            if br == "yes":
@@ -4829,7 +4819,7 @@ if species == "rabbit":
                 print("https://animalcrossing.fandom.com/wiki/Dotty")
               if yn == "no":
                 print()
-                print("Sounds like a you problem.")
+                print("Refresh the page and rethink your answers.")
            if br == "no":
             bhc = input("Is the headpiece on this Villager pink or blue? ").lower()
             print()
@@ -4844,7 +4834,7 @@ if species == "rabbit":
                 print("https://animalcrossing.fandom.com/wiki/Chrissy")
               if yn == "no":
                 print()
-                print("Sounds like a you problem.")
+                print("Refresh the page and rethink your answers.")
             if bhc == "blue":
               print("\033[34m" "Is the Villager you're looking for named Francine?"
               "\033[0m")
@@ -4855,7 +4845,7 @@ if species == "rabbit":
                 print("https://animalcrossing.fandom.com/wiki/Francine")
               if yn == "no":
                 print()
-                print("Sounds like a you problem.")
+                print("Refresh the page and rethink your answers.")
 # RABBIT - PINK
   if rabbitColor == "pink":
      print("\033[31m" "Is the Villager you're looking for named Snake?"
@@ -4867,7 +4857,7 @@ if species == "rabbit":
         print("https://animalcrossing.fandom.com/wiki/Sanke")
      if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # RABBIT - BLUE
   if rabbitColor == "blue":
     rlod = input("Is this Villager a light or dark blue? ").lower()
@@ -4882,7 +4872,7 @@ if species == "rabbit":
         print("https://animalcrossing.fandom.com/wiki/Hopkins")
       if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if rlod == "dark":
       print("\033[34m" "Is the Villager you're looking for named Doc?"
             "\033[0m")
@@ -4893,7 +4883,7 @@ if species == "rabbit":
         print("https://animalcrossing.fandom.com/wiki/Doc")
       if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # RABBIT - YELLOW
   if rabbitColor == "yellow":
     rhc = input("Does this Villager have a haircut? ").lower()
@@ -4911,7 +4901,7 @@ if species == "rabbit":
           print("https://animalcrossing.fandom.com/wiki/Toby")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
        if wrhc == "dark green":
         print()
         print("\033[32m" "Is the Villager you're looking for named Pippy?"
@@ -4923,7 +4913,7 @@ if species == "rabbit":
           print("https://animalcrossing.fandom.com/wiki/Pippy")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if rhc == "no":
        print()
        rm = input("Does this rabbit have a moustache? ").lower()
@@ -4938,7 +4928,7 @@ if species == "rabbit":
           print("https://animalcrossing.fandom.com/wiki/Mira")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
        if rm == "yes":
         print()
         print("\033[33m" "Is the Villager you're looking for named Gaston?"
@@ -4950,7 +4940,7 @@ if species == "rabbit":
           print("https://animalcrossing.fandom.com/wiki/Gaston")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # RABBIT - BROWN
   if rabbitColor == "brown":
      reye = input("Does this Villager have eyes? ").lower()
@@ -4965,7 +4955,7 @@ if species == "rabbit":
           print("https://animalcrossing.fandom.com/wiki/Coco")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
      if reye == "yes":
         rabbitGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
                        "\033[30m""\033[37m""? ""\033[0m").lower()
@@ -4984,7 +4974,7 @@ if species == "rabbit":
                 print("https://animalcrossing.fandom.com/wiki/Bonbon")
               if yn == "no":
                 print()
-                print("Sounds like a you problem.")
+                print("Refresh the page and rethink your answers.")
            if grh == "no":
               print()
               print("\033[33m" "Is the Villager you're looking for named Carmen?"
@@ -4996,7 +4986,7 @@ if species == "rabbit":
                 print("https://animalcrossing.fandom.com/wiki/Carmen")
               if yn == "no":
                 print()
-                print("Sounds like a you problem.")
+                print("Refresh the page and rethink your answers.")
         if rabbitGender == "boy":
            rec = input("Does this Villager have blue eyes? ").lower()
            print()
@@ -5010,7 +5000,7 @@ if species == "rabbit":
                 print("https://animalcrossing.fandom.com/wiki/Cole")
               if yn == "no":
                 print()
-                print("Sounds like a you problem.")
+                print("Refresh the page and rethink your answers.")
            if rec == "no":
               unir = input("Does this Villager have a unibrow? ").lower()
               print()
@@ -5024,7 +5014,7 @@ if species == "rabbit":
                   print("https://animalcrossing.fandom.com/wiki/O%27Hare")
                 if yn == "no":
                   print()
-                  print("Sounds like a you problem.")
+                  print("Refresh the page and rethink your answers.")
               if unir == "yes":
                 print("\033[33m" "Is the Villager you're looking for named Claude?"
             "\033[0m")
@@ -5035,10 +5025,7 @@ if species == "rabbit":
                   print("https://animalcrossing.fandom.com/wiki/Claude")
                 if yn == "no":
                   print()
-                  print("Sounds like a you problem.")
-           
-        
-
+                  print("Refresh the page and rethink your answers.")
 
 # RHINO 
 if species == "rhino":
@@ -5056,7 +5043,7 @@ if species == "rhino":
         print("https://animalcrossing.fandom.com/wiki/Spike")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # RHINO - WHITE
   if rhinoColor == "white":
     print()
@@ -5069,7 +5056,7 @@ if species == "rhino":
         print("https://animalcrossing.fandom.com/wiki/Rhonda")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
  # RHINO - BLUE
   if rhinoColor == "blue":
     rhinoGender = input("Is the Villager you're looking for a" "\033[34m" " boy " "\033[30m" "\033[37m""or a""\033[30m" "\033[31m"" girl" 
@@ -5088,7 +5075,7 @@ if species == "rhino":
             print("https://animalcrossing.fandom.com/wiki/Hornsby")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if bnr == "yes":
           print()
           print("\033[34m" "Is the Villager you're looking for named Tank?"
@@ -5100,7 +5087,7 @@ if species == "rhino":
             print("https://animalcrossing.fandom.com/wiki/Tank")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
     if rhinoGender == "girl":
       print()
       print("\033[34m" "Is the Villager you're looking for named Azalea?"
@@ -5112,7 +5099,7 @@ if species == "rhino":
         print("https://animalcrossing.fandom.com/wiki/Azalea")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # RHINO - PINK
   if rhinoColor == "pink":
       print()
@@ -5126,7 +5113,7 @@ if species == "rhino":
         print("https://animalcrossing.fandom.com/wiki/Merengue")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # RHINO - PURPLE
   if rhinoColor == "purple":
       print()
@@ -5139,7 +5126,7 @@ if species == "rhino":
         print("https://animalcrossing.fandom.com/wiki/Renée")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 
 # SHEEP
 if species == "sheep":
@@ -5156,7 +5143,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Cashmere")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SHEEP - YELLOW
   if sheepColor == "yellow":
       print()
@@ -5169,7 +5156,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Curlos")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SHEEP - BLUE
   if sheepColor == "blue":
       print()
@@ -5182,7 +5169,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Vesta")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SHEEP - WHITE
   if sheepColor == "white":
     print()
@@ -5198,7 +5185,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Pietro")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if cs == "no":
       print()
       print("\033[37m" "Is the Villager you're looking for named Muffy?"
@@ -5210,7 +5197,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Muffy")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SHEEP - BROWN
   if sheepColor == "brown":
     print()
@@ -5226,7 +5213,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Frita")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if ow == "no":
      print()
      yw = input("Does this Villager have yellow wool? ").lower()
@@ -5241,7 +5228,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Baabara")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if yw == "yes":
       print()
       print("\033[33m" "Is the Villager you're looking for named Willow?"
@@ -5253,7 +5240,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Willow")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SHEEP - ORANGE
   if sheepColor == "orange":
     print()
@@ -5269,7 +5256,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Wendy")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if bw == "no":
       print("\033[33m" "Is the Villager you're looking for named Timbra?"
             "\033[0m")
@@ -5280,7 +5267,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Timbra")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SHEEP - PINK
   if sheepColor == "pink":
     print()
@@ -5297,7 +5284,7 @@ if species == "sheep":
         print("https://animalcrossing.fandom.com/wiki/Dom")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if sheepGender == "girl":
       print()
       sbw = input("Does this Villager have blue wool? ").lower()
@@ -5312,7 +5299,7 @@ if species == "sheep":
           print("https://animalcrossing.fandom.com/wiki/Eunice")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if sbw == "no":
         print()
         lpw = input("Does this Villager have light purple wool? ").lower()
@@ -5327,7 +5314,7 @@ if species == "sheep":
             print("https://animalcrossing.fandom.com/wiki/Etoile")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
         if lpw == "no":
           print()
           print("\033[31m" "Is the Villager you're looking for named Stella?"
@@ -5339,7 +5326,7 @@ if species == "sheep":
             print("https://animalcrossing.fandom.com/wiki/Stella")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
 
 # Squirrel
 if species == "squirrel":
@@ -5356,7 +5343,7 @@ if species == "squirrel":
         print("https://animalcrossing.fandom.com/wiki/Marshall")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SQUIRREL - BROWN
   if squirrelColor == "brown":
     print()
@@ -5373,7 +5360,7 @@ if species == "squirrel":
         print("https://animalcrossing.fandom.com/wiki/Ricky")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if squirrelGender == "girl":
         print()
         squirrelBlush = input("Does this Villager have blush marks on their face? ").lower()
@@ -5391,7 +5378,7 @@ if species == "squirrel":
               print("https://animalcrossing.fandom.com/wiki/Hazel")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
           if squirrelUni == "no":
             print()
             print("\033[33m" "Is the Villager you're looking for named Cally?"
@@ -5403,7 +5390,7 @@ if species == "squirrel":
               print("https://animalcrossing.fandom.com/wiki/Cally")
             if yn == "no":
               print()
-              print("Sounds like a you problem.")
+              print("Refresh the page and rethink your answers.")
         if squirrelBlush == "no":
            print()
            squirrelShadow = input("Does this have eyeshadow? ").lower()
@@ -5421,7 +5408,7 @@ if species == "squirrel":
                   print("https://animalcrossing.fandom.com/wiki/Pecan")
                 if yn == "no":
                   print()
-                  print("Sounds like a you problem.")
+                  print("Refresh the page and rethink your answers.")
               if sst == "purple":
                 print()
                 print("\033[31m" "Is the Villager you're looking for named Sally?"
@@ -5433,7 +5420,7 @@ if species == "squirrel":
                   print("https://animalcrossing.fandom.com/wiki/Sally")
                 if yn == "no":
                   print()
-                  print("Sounds like a you problem.")
+                  print("Refresh the page and rethink your answers.")
            if squirrelShadow == "no":
               print()
               print("\033[33m" "Is the Villager you're looking for named Sylvana?"
@@ -5445,7 +5432,7 @@ if species == "squirrel":
                 print("https://animalcrossing.fandom.com/wiki/Sylvana")
               if yn == "no":
                 print()
-                print("Sounds like a you problem.")
+                print("Refresh the page and rethink your answers.")
 # SQUIRREL - PINK
   if squirrelColor == "pink":
       print()
@@ -5458,7 +5445,7 @@ if species == "squirrel":
         print("https://animalcrossing.fandom.com/wiki/Peanut")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SQUIRREL - ORANGE
   if squirrelColor == "orange":
       print()
@@ -5475,7 +5462,7 @@ if species == "squirrel":
           print("https://animalcrossing.fandom.com/wiki/Sheldon")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if squirrelGender == "girl":
         print()
         print("\033[37m" "Is the Villager you're looking for named Caroline?"
@@ -5487,7 +5474,7 @@ if species == "squirrel":
          print("https://animalcrossing.fandom.com/wiki/Caroline")
         if yn == "no":
          print()
-         print("Sounds like a you problem.")
+         print("Refresh the page and rethink your answers.")
 # SQUIRREL - RED
   if squirrelColor == "red":
         print()
@@ -5500,7 +5487,7 @@ if species == "squirrel":
           print("https://animalcrossing.fandom.com/wiki/Poppy")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # SQUIRREL - PURPLE
   if squirrelColor == "purple":
         print()
@@ -5513,7 +5500,7 @@ if species == "squirrel":
           print("https://animalcrossing.fandom.com/wiki/Static")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # SQUIRREL - GRAY
   if squirrelColor == "gray":
     dse = input("Does this Villager have droopy eyes? ").lower()
@@ -5528,7 +5515,7 @@ if species == "squirrel":
           print("https://animalcrossing.fandom.com/wiki/Agent_S")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
     if dse == "no":
         print()
         print("\033[37m" "Is the Villager you're looking for named Blaire?"
@@ -5540,7 +5527,7 @@ if species == "squirrel":
           print("https://animalcrossing.fandom.com/wiki/Blaire")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
 # SQUIRREL - GREEN
   if squirrelColor == "green":
     print()
@@ -5556,7 +5543,7 @@ if species == "squirrel":
         print("https://animalcrossing.fandom.com/wiki/Mint")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if fob == "yes":
       print()
       print("\033[32m" "Is the Villager you're looking for named Nibbles?"
@@ -5568,7 +5555,7 @@ if species == "squirrel":
         print("https://animalcrossing.fandom.com/wiki/Nibbles")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # SQUIRREL  - BUE
   if squirrelColor == "blue":
     print()
@@ -5585,7 +5572,7 @@ if species == "squirrel":
         print("https://animalcrossing.fandom.com/wiki/Filbert")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if squirrelGender == "girl":
        print()
        orbe = input("Does this Villager have orange or blue eyes? ").lower()
@@ -5600,7 +5587,7 @@ if species == "squirrel":
             print("https://animalcrossing.fandom.com/wiki/Tasha")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
        if orbe == "blue":
           print()
           print("\033[37m" "Is the Villager you're looking for named Ione?"
@@ -5612,11 +5599,8 @@ if species == "squirrel":
             print("https://animalcrossing.fandom.com/wiki/Ione")
           if yn == "no":
             print()
-            print("Sounds like a you problem.")
+            print("Refresh the page and rethink your answers.")
   
-             
-      
-
 # TIGER
 if species == "tiger":
   tigerColor = input("What is the main color of this Villager? ").lower()
@@ -5635,7 +5619,7 @@ if species == "tiger":
         print("https://animalcrossing.fandom.com/wiki/Rowan")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if tigerUniBrow == "no":
       print()
       print("\033[33m" "Is the Villager you're looking for named Leonardo?"
@@ -5647,7 +5631,7 @@ if species == "tiger":
         print("https://animalcrossing.fandom.com/wiki/Leonardo")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # TIGER - YELLOW
   if tigerColor == "yellow":
     print()
@@ -5660,7 +5644,7 @@ if species == "tiger":
         print("https://animalcrossing.fandom.com/wiki/Tybalt")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # TIGER - PINK
   if tigerColor == "pink":
     print()
@@ -5673,7 +5657,7 @@ if species == "tiger":
         print("https://animalcrossing.fandom.com/wiki/Claudia")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # TIGER - BROWN
   if tigerColor == "brown":
     print()
@@ -5686,7 +5670,7 @@ if species == "tiger":
         print("https://animalcrossing.fandom.com/wiki/Bangle")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # TIGER - WHITE
     print()
   if tigerColor == "white":
@@ -5704,7 +5688,7 @@ if species == "tiger":
         print("https://animalcrossing.fandom.com/wiki/Rolf")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if tigerGender == "girl":
         print()
         print("\033[37m" "Is the Villager you're looking for named Bianca?"
@@ -5716,7 +5700,7 @@ if species == "tiger":
          print("https://animalcrossing.fandom.com/wiki/Bianca_(tiger)")
         if yn == "no":
          print()
-         print("Sounds like a you problem.")
+         print("Refresh the page and rethink your answers.")
 
 # WOLF
 if species == "wolf":
@@ -5733,7 +5717,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Chief")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # WOLF - PINK
   if wolfColor == "pink":
     print()
@@ -5749,7 +5733,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Audie")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if wolfBangs == "no":
       print()
       print("\033[31m" "Is the Villager you're looking for named Freya?"
@@ -5761,7 +5745,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Freya")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # WOLF - PURPLE
   if wolfColor == "purple":
     print()
@@ -5774,7 +5758,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Lobo")
     if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # WOLF - GRAY
   if wolfColor == "gray":
     print()
@@ -5790,7 +5774,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Fang")
      if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if wolfAge == "old":
      print()
      print("\033[30m" "Is the Villager you're looking for named Dobie?"
@@ -5802,7 +5786,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Dobie")
      if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # WOLF - BROWN
   if wolfColor == "brown":
     print()
@@ -5819,7 +5803,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Kyle")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if wolfGender == "girl":
       print()
       print("\033[33m" "Is the Villager you're looking for named Vivian?"
@@ -5831,7 +5815,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Vivian")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
 # WOLF - BLUE
   if wolfColor == "blue":
     print()
@@ -5848,7 +5832,7 @@ if species == "wolf":
         print("https://animalcrossing.fandom.com/wiki/Wolfgang")
       if yn == "no":
         print()
-        print("Sounds like a you problem.")
+        print("Refresh the page and rethink your answers.")
     if wolfGender == "girl":
       print()
       cuteOrSleek = input("Is this Vllager cute or more sleek? ").lower()
@@ -5863,7 +5847,7 @@ if species == "wolf":
          print("https://animalcrossing.fandom.com/wiki/Skye")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
       if cuteOrSleek == "sleek":
         print()
         print("\033[34m" "Is the Villager you're looking for named Whitney?"
@@ -5875,4 +5859,4 @@ if species == "wolf":
           print("https://animalcrossing.fandom.com/wiki/Whitney")
         if yn == "no":
           print()
-          print("Sounds like a you problem.")
+          print("Refresh the page and rethink your answers.")
